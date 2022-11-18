@@ -1,0 +1,22 @@
+{
+  "name": "object_guesser_firebase",
+  "version": "1.0.0",
+  "description": "Firebase scripts for the project object_guesser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyclexit/object_guesser_firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyclexit/object_guesser_firebase/issues"
+  },
+  "homepage": "https://github.com/cyclexit/object_guesser_firebase#readme",
+  "dependencies": {
+    "firebase-admin": "^11.3.0"
+  }
+}
