@@ -1,149 +1,147 @@
 {
     "collection_name": "labels",
     "labels": [
-        // NOTE: `parent_id` and `root_id` will be replaced by hash id from firebase in the end
-        //        and `id` will be added as the firebase hash id
         {
             "name": "fruit",
             "parent_id": "fruit",
-            "root_id": "fruit",
+            "root_id": "fruit"
         },
         {
             "name": "berry",
             "parent_id": "fruit",
-            "root_id": "fruit",
+            "root_id": "fruit"
         },
         {
             "name": "watermelon",
             "parent_id": "fruit",
-            "root_id": "fruit",
+            "root_id": "fruit"
         },
         {
             "name": "apple",
             "parent_id": "fruit",
-            "root_id": "fruit",
+            "root_id": "fruit"
         },
         {
             "name": "banana",
             "parent_id": "fruit",
-            "root_id": "fruit",
+            "root_id": "fruit"
         },
         {
             "name": "blueberry",
             "parent_id": "berry",
-            "root_id": "fruit",
+            "root_id": "fruit"
         },
         {
             "name": "cranberry",
             "parent_id": "berry",
-            "root_id": "fruit",
+            "root_id": "fruit"
         },
         {
             "name": "raspberry",
             "parent_id": "berry",
-            "root_id": "fruit",
+            "root_id": "fruit"
         },
         {
             "name": "blackberry",
             "parent_id": "berry",
-            "root_id": "fruit",
+            "root_id": "fruit"
         },
 
         {
             "name": "car",
             "parent_id": "car",
-            "root_id": "car",
+            "root_id": "car"
         },
         {
             "name": "taxi",
             "parent_id": "car",
-            "root_id": "car",
+            "root_id": "car"
         },
         {
             "name": "ambulance",
             "parent_id": "car",
-            "root_id": "car",
+            "root_id": "car"
         },
         {
             "name": "bus",
             "parent_id": "car",
-            "root_id": "car",
+            "root_id": "car"
         },
         {
             "name": "suv",
             "parent_id": "car",
-            "root_id": "car",
+            "root_id": "car"
         },
         {
             "name": "sedan",
             "parent_id": "car",
-            "root_id": "car",
+            "root_id": "car"
         },
         {
             "name": "school_bus",
             "parent_id": "bus",
-            "root_id": "car",
+            "root_id": "car"
         },
         {
             "name": "trolleybus",
             "parent_id": "bus",
-            "root_id": "car",
+            "root_id": "car"
         },
 
         {
             "name": "dog",
             "parent_id": "dog",
-            "root_id": "dog",
+            "root_id": "dog"
         },
         {
             "name": "working_dog",
             "parent_id": "dog",
-            "root_id": "dog",
+            "root_id": "dog"
         },
         {
             "name": "retriever",
             "parent_id": "dog",
-            "root_id": "dog",
+            "root_id": "dog"
         },
         {
             "name": "toy_dog",
             "parent_id": "dog",
-            "root_id": "dog",
+            "root_id": "dog"
         },
         {
             "name": "bulldog",
             "parent_id": "working_dog",
-            "root_id": "dog",
+            "root_id": "dog"
         },
         {
             "name": "bull_mastiff",
             "parent_id": "working_dog",
-            "root_id": "dog",
+            "root_id": "dog"
         },
         {
             "name": "golden_retriever",
             "parent_id": "retriever",
-            "root_id": "dog",
+            "root_id": "dog"
         },
         {
             "name": "labrador_retriever",
             "parent_id": "retriever",
-            "root_id": "dog",
+            "root_id": "dog"
         },
         {
             "name": "shih-tzu",
             "parent_id": "toy_dog",
-            "root_id": "dog",
+            "root_id": "dog"
         },
         {
             "name": "pekinese",
             "parent_id": "toy_dog",
-            "root_id": "dog",
+            "root_id": "dog"
         },
         {
             "name": "chihuahua",
             "parent_id": "toy_dog",
-            "root_id": "dog",
-        },
+            "root_id": "dog"
+        }
     ]
 }
