@@ -1,3 +1,6 @@
+# Security files
+credentials.json
+
 # Logs
 logs
 *.log
