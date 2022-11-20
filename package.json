@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cyclexit/object_guesser_firebase#readme",
   "dependencies": {
-    "firebase-admin": "^11.3.0"
+    "firebase-admin": "^11.3.0",
+    "glob": "^8.0.3"
   }
 }
