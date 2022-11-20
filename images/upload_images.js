@@ -29,8 +29,24 @@ const uploadImages = async(jsonData) => {
 
 const updateLabelId = async(labelSnapshot, imageToLabel) => {
     // console.log(imageToLabel); // debug
-    for (const [imageId, label] of Object.entries(imageToLabel)) {
-        
+    var cnt = 0;
+    for (const [imageId, labelName] of Object.entries(imageToLabel)) {
+        for (const label of labelSnapshot) {
+            if (label["name"] === labelName) {
+                const ref = adminLabelRecordsCollection.doc();
+                var adminLabelRec = {};
+                adminLabelRec["id"] = ref.id;
+                adminLabelRec["image_id"] = imageId;
+                adminLabelRec["label_id"] = label["id"];
+                await ref.set(adminLabelRec, {merge: true});
+                ++cnt;
+                console.log("Image Label Record Done: ", adminLabelRec);
+                break;
+            }
+        }
+    }
+    if (cnt === Object.keys(imageToLabel).length) {
+        console.log("Length verified. All images are labelled.");
     }
 }
 
