@@ -27,12 +27,17 @@ const uploadImages = async(jsonData) => {
     return imageToLabel;
 }
 
-const updateLabelId = async(imageToLabel) => {
+const updateLabelId = async(labelSnapshot, imageToLabel) => {
     // console.log(imageToLabel); // debug
-    const labelCollection = db.collection("labels");
     for (const [imageId, label] of Object.entries(imageToLabel)) {
         
     }
+}
+
+const getAllLabels = async() => {
+    const labelCollection = db.collection("labels");
+    const labelSnapshot = await labelCollection.get();
+    return labelSnapshot.docs.map(doc => doc.data());
 }
 
 glob("*.json", (error, files) => {
@@ -40,11 +45,13 @@ glob("*.json", (error, files) => {
         console.log(error);
         return;
     }
-    for (const f of files) {
-        const rawData = fs.readFileSync(f);
-        const jsonData = JSON.parse(rawData);
-        uploadImages(jsonData).then(
-            imageToLabel => updateLabelId(imageToLabel)
-        );
-    }
+    getAllLabels().then(labelSnapshot => {
+        for (const f of files) {
+            const rawData = fs.readFileSync(f);
+            const jsonData = JSON.parse(rawData);
+            uploadImages(jsonData).then(
+                imageToLabel => updateLabelId(labelSnapshot, imageToLabel)
+            );
+        }
+    });
 });
