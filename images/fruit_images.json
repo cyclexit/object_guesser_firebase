@@ -1,0 +1,73 @@
+{
+    "collection_name": "images",
+    "images": [
+        {
+            "url": "https://assets.shop.loblaws.ca/products/20145379001/b2/en/front/20145379001_front_a06_@2.png",
+            "label": "watermelon"
+        },
+        {
+            "url": "https://www.thegoodmoodfood.com.au/siteassets/foods/red/watermelon-lg.png",
+            "label": "watermelon"
+        },
+        {
+            "url": "https://i.etsystatic.com/17057214/r/il/dd236b/2775557850/il_500x500.2775557850_d58d.jpg",
+            "label": "watermelon"
+        },
+        {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/199px-Red_Apple.jpg",
+            "label": "apple"
+        },
+        {
+            "url": "https://usapple.org/wp-content/uploads/2019/10/apple-gala.png",
+            "label": "apple"
+        },
+        {
+            "url": "https://api.time.com/wp-content/uploads/2019/11/gettyimages-459761948.jpg",
+            "label": "banana"
+        },
+        {
+            "url": "https://assets.shop.loblaws.ca/products/20175355001/b1/en/front/20175355001_front_a01_@2.png",
+            "label": "banana"
+        },
+        {
+            "url": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg",
+            "label": "banana"
+        },
+        {
+            "url": "https://blueberry.org/wp-content/uploads/2021/05/supercharged-smile-making-boosts.jpg",
+            "label": "blueberry"
+        },
+        {
+            "url": "https://www.gardenworks.ca/files/images/news/8-tips-for-a-bumper-blueberry-crop-1024x768-62638a40d345e_src.webp",
+            "label": "blueberry"
+        },
+        {
+            "url": "https://www.seeds-gallery.eu/6419-large_default/lowbush-blueberry-seeds.jpg",
+            "label": "blueberry"
+        },
+        {
+            "url": "https://bambooplants.ca/wp-content/uploads/2018/05/rubus-eden-raspberry-e1625931933167.jpg",
+            "label": "raspberry"
+        },
+        {
+            "url": "https://cdn.shopify.com/s/files/1/0050/2261/3602/products/image_4f591e1c-4f2b-4ab8-b7b4-0fe532c041e7_750x.jpg?v=1641408904",
+            "label": "raspberry"
+        },
+        {
+            "url": "https://i.etsystatic.com/20845839/r/il/9a1430/2878361188/il_570xN.2878361188_fwfk.jpg",
+            "label": "blackberry"
+        },
+        {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Blackberry_%28Rubus_fruticosus%29.jpg/235px-Blackberry_%28Rubus_fruticosus%29.jpg",
+            "label": "blackberry"
+        },
+        {
+            "url": "https://files.nccih.nih.gov/cranberry-steven-foster-square.jpg",
+            "label": "cranberry"
+        },
+        {
+            "url": "https://gardenerspath.com/wp-content/uploads/2020/11/How-to-Grow-Cranberries-Cover.jpg",
+            "label": "cranberry"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "collection_name": "images",
+    "images": [
+        {
+            "url": "https://www.akc.org/wp-content/uploads/2017/11/Affenpinscher-illustration.jpg",
+            "label": "dog"
+        },
+        {
+            "url": "https://news.artnet.com/app/news-upload/2018/02/image-256x256.jpg",
+            "label": "dog"
+        },
+        {
+            "url": "https://4.bp.blogspot.com/-ZM952rOb-ko/W_rYUo0fk4I/AAAAAAACAAc/mb9sTnP7JKEyXloO8VKAvBKJcNPO--FqACLcBGAs/s1600/cute-dogs-256-09.jpg",
+            "label": "dog"
+        },
+        {
+            "url": "https://image.petmd.com/files/styles/863x625/public/2020-11/picture-of-shih-tzu-dog.jpg",
+            "label": "shih-tzu"
+        },
+        {
+            "url": "https://images.wagwalkingweb.com/media/breed/chihuahua/appearance/chihuahua.png?auto=compress&fit=max&ixlib=imgixjs-3.6.1&w=688",
+            "label": "chihuahua"
+        },
+        {
+            "url": "https://www.petbarn.com.au/petspot/app/uploads/2015/01/30.-Chihuahua.jpg",
+            "label": "chihuahua"
+        },
+        {
+            "url": "https://www.dogbible.com/app/images/pekinese-puppies-in-the-grass-7c3a51.jpeg",
+            "label": "pekinese"
+        },
+        {
+            "url": "https://www.dogstardaily.com/files/styles/medium/public/images/blogs/pekingesef6.jpg?itok=c21Qvreh",
+            "label": "pekinese"
+        },
+        {
+            "url": "https://www.petful.com/wp-content/uploads/2017/02/Bulldog-e1587511684225-750x498.jpg",
+            "label": "bulldog"
+        },
+        {
+            "url": "https://www.petplan.co.uk/images/breeds/bulldog.png",
+            "label": "bulldog"
+        },
+        {
+            "url": "https://www.purina.co.nz/sites/default/files/2021-02/BREED%20Hero_0030_Bullmastiff.jpg",
+            "label": "bull_mastiff"
+        },
+        {
+            "url": "https://www.hillspet.ca/content/dam/cp-sites/hills/hills-pet/global/articles/dog-care/dog-breeds/img_DogBreed-Bull-Mastif.jpg",
+            "label": "bull_mastiff"
+        },
+        {
+            "url": "https://pbs.twimg.com/profile_images/712754973403062272/H_mpnF6m_400x400.jpg",
+            "label": "golden_retriever"
+        },
+        {
+            "url": "https://pbs.twimg.com/profile_images/712754973403062272/H_mpnF6m_400x400.jpg",
+            "label": "golden_retriever"
+        },
+        {
+            "url": "https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/d5/fd/86/d5fd86ef-a64a-f450-cea9-a02f4f4b9631/source/256x256bb.jpg",
+            "label": "golden_retriever"
+        },
+        {
+            "url": "https://m.media-amazon.com/images/I/711eUHrO9CL._CR0,354,1103,1103_UX256.jpg",
+            "label": "golden_retriever"
+        }
+    ]
+}

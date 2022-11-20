@@ -1,0 +1,61 @@
+{
+    "collection_name": "images",
+    "images": [
+        {
+            "url": "https://static.wixstatic.com/media/c2d119_98b8b59270684850a77db2e3ec181bb9~mv2_d_3456_2304_s_2.jpg/v1/fill/w_640,h_798,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c2d119_98b8b59270684850a77db2e3ec181bb9~mv2_d_3456_2304_s_2.jpg",
+            "label": "taxi"
+        },
+        {
+            "url": "https://www.barrietaxi.com/wp-content/uploads/2016/08/services_taxi.jpg",
+            "label": "taxi"
+        },
+        {
+            "url": "https://images.squarespace-cdn.com/content/v1/5bf432f870e8026f5a08f74d/1548953736132-7YP7Z34D9I1LYXK60Y6S/Ambulance-crop-02.jpg?format=1000w",
+            "label": "ambulance"
+        },
+        {
+            "url": "https://live.staticflickr.com/2721/4398947736_ec75c9f620_b.jpg",
+            "label": "ambulance"
+        },
+        {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg/1200px-LT_471_%28LTZ_1471%29_Arriva_London_New_Routemaster_%2819522859218%29.jpg",
+            "label": "bus"
+        },
+        {
+            "url": "https://novabus.com/wp-content/uploads/2017/09/diesel_front_driver_1920x1080_72dpi-600x240.jpg",
+            "label": "bus"
+        },
+        {
+            "url": "https://farm9.staticflickr.com/8099/8484412999_4db11852e1.jpg",
+            "label": "trolleybus"
+        },
+        {
+            "url": "https://bus-news.com/wp-content/uploads/sites/4/2022/04/32Tr-Pardubice-1024x683-1.jpeg",
+            "label": "trolleybus"
+        },
+        {
+            "url": "https://protecteurducitoyen.qc.ca/sites/default/files/styles/col_10_16x9/public/2021-08/autobus-scolaire-4096x3072.jpg?itok=zhqtwLVB",
+            "label": "school_bus"
+        },
+        {
+            "url": "https://www.ugdsb.ca/edhs/wp-content/uploads/sites/68/2022/06/bus.png",
+            "label": "school_bus"
+        },
+        {
+            "url": "https://www.ford.ca/cmslibs/content/dam/brand_ford/en_ca/brand/suvs-crossovers/landing_page/3-2/2022/Expedition.jpg/_jcr_content/renditions/cq5dam.web.768.768.jpeg",
+            "label": "suv"
+        },
+        {
+            "url": "https://www.toyotadirect.com/blogs/3084/wp-content/uploads/2020/06/4Runner-White-Front-2018.jpg",
+            "label": "suv"
+        },
+        {
+            "url": "https://www.mazda.ca/globalassets/mazda-canada/vehicles/2022/mazda3/mazda3_2022_c78_2awd.jpg",
+            "label": "sedan"
+        },
+        {
+            "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/RETAIL01_180829819_AR_0_NZIKDTMHTNMR.jpg",
+            "label": "sedan"
+        }
+    ]
+}
