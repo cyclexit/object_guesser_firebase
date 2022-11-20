@@ -28,7 +28,11 @@ const uploadImages = async(jsonData) => {
 }
 
 const updateLabelId = async(imageToLabel) => {
-    console.log(imageToLabel); // debug
+    // console.log(imageToLabel); // debug
+    const labelCollection = db.collection("labels");
+    for (const [imageId, label] of Object.entries(imageToLabel)) {
+        
+    }
 }
 
 glob("*.json", (error, files) => {
