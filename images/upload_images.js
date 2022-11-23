@@ -3,14 +3,14 @@ const admin = require('firebase-admin');
 const glob = require('glob');
 
 const IMAGES = "images";
-const ADMIN_LABEL_RECORDS = "admin_label_records";
+const IMAGE_LABEL_RECORDS = "image_label_records";
 
 admin.initializeApp({
     credential: admin.credential.cert(require('../credentials.json'))
 })
 const db = admin.firestore();
 const imagesCollection = db.collection(IMAGES);
-const adminLabelRecordsCollection = db.collection(ADMIN_LABEL_RECORDS);
+const imageLabelRecordsCollection = db.collection(IMAGE_LABEL_RECORDS);
 
 const uploadImages = async(jsonData) => {
     const imageDataList = jsonData["images"];
@@ -27,13 +27,13 @@ const uploadImages = async(jsonData) => {
     return imageToLabel;
 }
 
-const updateLabelId = async(labelSnapshot, imageToLabel) => {
+const uploadRecords = async(labelSnapshot, imageToLabel) => {
     // console.log(imageToLabel); // debug
     var cnt = 0;
     for (const [imageId, labelName] of Object.entries(imageToLabel)) {
         for (const label of labelSnapshot) {
             if (label["name"] === labelName) {
-                const ref = adminLabelRecordsCollection.doc();
+                const ref = imageLabelRecordsCollection.doc();
                 var adminLabelRec = {};
                 adminLabelRec["id"] = ref.id;
                 adminLabelRec["image_id"] = imageId;
@@ -66,7 +66,7 @@ glob("*.json", (error, files) => {
             const rawData = fs.readFileSync(f);
             const jsonData = JSON.parse(rawData);
             uploadImages(jsonData).then(
-                imageToLabel => updateLabelId(labelSnapshot, imageToLabel)
+                imageToLabel => uploadRecords(labelSnapshot, imageToLabel)
             );
         }
     });
