@@ -30,17 +30,19 @@ const uploadImages = async(jsonData) => {
 const uploadRecords = async(labelSnapshot, imageToLabel) => {
     // console.log(imageToLabel); // debug
     var cnt = 0;
+    const INITIAL_RECORD_WEIGHT = 1000;
     for (const [imageId, labelName] of Object.entries(imageToLabel)) {
         for (const label of labelSnapshot) {
             if (label["name"] === labelName) {
                 const ref = imageLabelRecordsCollection.doc();
-                var adminLabelRec = {};
-                adminLabelRec["id"] = ref.id;
-                adminLabelRec["image_id"] = imageId;
-                adminLabelRec["label_id"] = label["id"];
-                await ref.set(adminLabelRec, {merge: true});
+                var record = {};
+                record["id"] = ref.id;
+                record["image_id"] = imageId;
+                record["label_id"] = label["id"];
+                record["weight"] = INITIAL_RECORD_WEIGHT
+                await ref.set(record, {merge: true});
                 ++cnt;
-                console.log("Image Label Record Done: ", adminLabelRec);
+                console.log("Image Label Record Done: ", record);
                 break;
             }
         }
