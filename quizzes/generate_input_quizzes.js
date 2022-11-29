@@ -17,17 +17,25 @@ const inputQuizzesCollection = db.collection(INPUT_QUIZZES);
 const getData = async() => {
     const imageLabelRecordSnapshot = await imageLabelRecordsCollection.get();
     const labelSnapshot = await labelsCollection.get();
+    var labels = {};
+    labelSnapshot.docs.forEach(doc => {
+        data = doc.data();
+        labels[data["id"]] = data;
+    })
     return {
         "imageLabelRecords": imageLabelRecordSnapshot.docs.map(doc => doc.data()),
-        "labels": labelSnapshot.docs.map(doc => doc.data())
+        "labels": labels
     };
 }
 
-getData().then(
-    data => {
-        const imageLabelRecords = data["imageLabelRecords"];
-        const labels = data["labels"];
-        console.log(imageLabelRecords);
-        console.log(labels);
-    }
-)
+const generateQuizzes = async(imageLabelRecords, labels) => {
+    var allJsonData = {"quizzes": []}; // written to the file for the debug purpose
+    return allJsonData;
+}
+
+getData().then(data => {
+    const imageLabelRecords = data["imageLabelRecords"];
+    const labels = data["labels"];
+    console.log(imageLabelRecords);
+    console.log(labels);
+});
