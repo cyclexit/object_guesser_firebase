@@ -1,3 +1,6 @@
+// This script does NOT generate the quizzes completely randomly.
+// If this script is re-used, please do the duplication check!
+
 const fs = require('fs');
 const admin = require('firebase-admin');
 
@@ -29,22 +32,22 @@ const getData = async() => {
 }
 
 const getCorrectAnswers = (id, labels) => {
-    // points: 100, 50, 25, ...
-    const MAX_POINTS = 100;
+    // points: 400, 200, 100, ...
+    const MAX_POINTS = 400;
     // one correct answer looks like: {"label": {...}, "points": 100}
     var correctAnswers = [];
     var curId = id;
     var dist = 1;
     while (true) {
         var correctAnswer = {};
-        correctAnswer["label"] = labels[curId];
+        correctAnswer["label_id"] = curId;
         correctAnswer["points"] = Math.floor(MAX_POINTS / dist);
         correctAnswers.push(correctAnswer);
         dist *= 2;
         curId = labels[curId]["parent_id"];
         if (labels[curId]["root_id"] === curId) {
             var rootAnswer = {};
-            rootAnswer["label"] = labels[curId];
+            rootAnswer["label_id"] = curId;
             rootAnswer["points"] = Math.floor(MAX_POINTS / dist);
             correctAnswers.push(rootAnswer);
             break;
