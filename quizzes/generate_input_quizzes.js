@@ -50,20 +50,23 @@ const getCorrectAnswers = (id, labels) => {
             break;
         }
     }
-    console.log(correctAnswer);
+    // console.log(correctAnswer);
     return correctAnswers;
 }
 
 const generateQuizzes = async(imageLabelRecords, labels) => {
-    var allJsonData = {"quizzes": []}; // written to the file for the debug purpose
+    var allJsonData = {"quizzes": []}; // for the debug purpose
     for (const rec of imageLabelRecords) {
         var quiz = {};
         quiz["image_id"] = rec["image_id"];
         quiz["category_id"] = labels[rec["label_id"]]["root_id"];
         quiz["correct_answers"] = getCorrectAnswers(rec["label_id"], labels);
+        const ref = inputQuizzesCollection.doc();
+        quiz["id"] = ref.id;
+        await ref.set(quiz, {merge: true});
         allJsonData["quizzes"].push(quiz);
     }
-    console.log(allJsonData);
+    // console.log(allJsonData);
     fs.writeFileSync("input_quizzes.json", JSON.stringify(allJsonData, null, 4));
     return allJsonData;
 }
