@@ -1,0 +1,2890 @@
+{
+    "quizzes": [
+        {
+            "image_id": "3evele5SyRAeYkttaRNZ",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "parent_id": "F2raRLgQBO8QxexEP4My",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "IeZxhZ9I0r9qI5MMCm4T",
+                        "from_wordnet": true,
+                        "name": "blueberry"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "berry",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "id": "F2raRLgQBO8QxexEP4My",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "IeZxhZ9I0r9qI5MMCm4T",
+                    "from_wordnet": true,
+                    "name": "blueberry"
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "uSme87VoYBAQQ2ukCBr5",
+                    "name": "watermelon",
+                    "from_wordnet": true
+                },
+                {
+                    "id": "4Z5p5oqOxDarue93PIMY",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "name": "chihuahua",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "name": "taxi",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "AhHOwaRq8NOqvSjDWNnh",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "0kBpUldi3HLaKumR75EI",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "id": "wM79Rbil0g1tPAHfN0tw",
+                        "parent_id": "L5nAg4CVsieclFOfD69Y",
+                        "name": "golden_retriever"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "retriever",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "id": "L5nAg4CVsieclFOfD69Y"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "wM79Rbil0g1tPAHfN0tw",
+                    "parent_id": "L5nAg4CVsieclFOfD69Y",
+                    "name": "golden_retriever"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "retriever",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "L5nAg4CVsieclFOfD69Y"
+                },
+                {
+                    "name": "taxi",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "AhHOwaRq8NOqvSjDWNnh",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "id": "7ZeVndRpeYeGu3wrPVjd",
+                    "name": "working_dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ"
+                }
+            ]
+        },
+        {
+            "image_id": "PK5bunCm8w4y8lDeYuVK",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                        "id": "InbSmNsHgfmQCECkRfIU",
+                        "name": "school_bus"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "bus",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "id": "InbSmNsHgfmQCECkRfIU",
+                    "name": "school_bus"
+                },
+                {
+                    "name": "bus",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "oLaq44U5v9Yenyt7Ao0H",
+                    "name": "suv"
+                }
+            ]
+        },
+        {
+            "image_id": "XY6zx8P62lX8FRYxvOPO",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "uSme87VoYBAQQ2ukCBr5",
+                        "name": "watermelon",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "uSme87VoYBAQQ2ukCBr5",
+                    "name": "watermelon",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "name": "cranberry",
+                    "id": "s4O0RaXN7xdDra1unIUf",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "FCDkei3wk6TZ1GoyW0yL",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "sedan"
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                }
+            ]
+        },
+        {
+            "image_id": "h7MKybWO0EXhvbO8gvWi",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "name": "raspberry",
+                        "parent_id": "F2raRLgQBO8QxexEP4My",
+                        "id": "hm5gJare1lkJl4aHAkSj"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "berry",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "id": "F2raRLgQBO8QxexEP4My",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "name": "raspberry",
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "id": "hm5gJare1lkJl4aHAkSj"
+                },
+                {
+                    "from_wordnet": true,
+                    "name": "pekinese",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "id": "xl1g3xoK3kjK19GSQchB"
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "E1589DqCvDMabmPBvR3g",
+                    "name": "blackberry",
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "FCDkei3wk6TZ1GoyW0yL",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "sedan"
+                }
+            ]
+        },
+        {
+            "image_id": "QTd5vBJfFkb13CoMkpCp",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "yj6KEqRgIjg9Oryo3wct",
+                        "name": "banana"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "yj6KEqRgIjg9Oryo3wct",
+                    "name": "banana"
+                },
+                {
+                    "from_wordnet": true,
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "L5nAg4CVsieclFOfD69Y",
+                    "name": "labrador_retriever",
+                    "id": "qaNuGVIue8049dh8NEsH"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "name": "cranberry",
+                    "id": "s4O0RaXN7xdDra1unIUf",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "from_wordnet": true,
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "ZErDKBkLOV4VeVmLmhDh",
+                    "name": "trolleybus"
+                }
+            ]
+        },
+        {
+            "image_id": "3bUgeGopRh1eDpcRAcYI",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                        "from_wordnet": true,
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "ZErDKBkLOV4VeVmLmhDh",
+                        "name": "trolleybus"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "bus",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "from_wordnet": true,
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "ZErDKBkLOV4VeVmLmhDh",
+                    "name": "trolleybus"
+                },
+                {
+                    "name": "bus",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "toy_dog",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "E9xPrUotzND6vHWJY8MW"
+                }
+            ]
+        },
+        {
+            "image_id": "criUjfwKREZZrwSXCWgb",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "from_wordnet": true,
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "ZErDKBkLOV4VeVmLmhDh",
+                    "name": "trolleybus"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "toy_dog",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "E9xPrUotzND6vHWJY8MW"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "name": "cranberry",
+                    "id": "s4O0RaXN7xdDra1unIUf",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                }
+            ]
+        },
+        {
+            "image_id": "nOZKdjm4ps7qume0UMaq",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                        "id": "InbSmNsHgfmQCECkRfIU",
+                        "name": "school_bus"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "bus",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "id": "InbSmNsHgfmQCECkRfIU",
+                    "name": "school_bus"
+                },
+                {
+                    "name": "bus",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "b64aDjgYbipQZ2LXqiI6",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "name": "bull_mastiff",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                        "id": "62RZu9DoV9PneYcAdB8o"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "id": "7ZeVndRpeYeGu3wrPVjd",
+                        "name": "working_dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "name": "bull_mastiff",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                    "id": "62RZu9DoV9PneYcAdB8o"
+                },
+                {
+                    "id": "7ZeVndRpeYeGu3wrPVjd",
+                    "name": "working_dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "retriever",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "L5nAg4CVsieclFOfD69Y"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "yj6KEqRgIjg9Oryo3wct",
+                    "name": "banana"
+                }
+            ]
+        },
+        {
+            "image_id": "oSi2WukFqMm7V1RLKdGC",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "name": "shih-tzu",
+                        "parent_id": "E9xPrUotzND6vHWJY8MW",
+                        "id": "s5KcucLNVQd80swfcDHQ"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "toy_dog",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "E9xPrUotzND6vHWJY8MW"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "name": "shih-tzu",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "id": "s5KcucLNVQd80swfcDHQ"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "toy_dog",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "E9xPrUotzND6vHWJY8MW"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "from_wordnet": true,
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "ZErDKBkLOV4VeVmLmhDh",
+                    "name": "trolleybus"
+                }
+            ]
+        },
+        {
+            "image_id": "aaDlvfDUiIm5PIONEupg",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "name": "apple",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "kLaF1ghEkqFKQMvHUoxU",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "name": "apple",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "kLaF1ghEkqFKQMvHUoxU",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "name": "fruit",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "name": "bus",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "oLaq44U5v9Yenyt7Ao0H",
+                    "name": "suv"
+                }
+            ]
+        },
+        {
+            "image_id": "5NaoWd3dLYR0Phh1SpKZ",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "name": "raspberry",
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "id": "hm5gJare1lkJl4aHAkSj"
+                },
+                {
+                    "name": "berry",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "id": "F2raRLgQBO8QxexEP4My",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw"
+                }
+            ]
+        },
+        {
+            "image_id": "pkeNvYKvkTCHtFbyeXIu",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "name": "taxi",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "AhHOwaRq8NOqvSjDWNnh",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "name": "taxi",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "AhHOwaRq8NOqvSjDWNnh",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "IeZxhZ9I0r9qI5MMCm4T",
+                    "from_wordnet": true,
+                    "name": "blueberry"
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "E1589DqCvDMabmPBvR3g",
+                    "name": "blackberry",
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                }
+            ]
+        },
+        {
+            "image_id": "UFlbBBhQFtnjkBFFQ84J",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "id": "wM79Rbil0g1tPAHfN0tw",
+                        "parent_id": "L5nAg4CVsieclFOfD69Y",
+                        "name": "golden_retriever"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "retriever",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "id": "L5nAg4CVsieclFOfD69Y"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "wM79Rbil0g1tPAHfN0tw",
+                    "parent_id": "L5nAg4CVsieclFOfD69Y",
+                    "name": "golden_retriever"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "name": "cranberry",
+                    "id": "s4O0RaXN7xdDra1unIUf",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "name": "apple",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "kLaF1ghEkqFKQMvHUoxU",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "FZlSpieMRQ2HHO2ax7jf",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "name": "bull_mastiff",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                        "id": "62RZu9DoV9PneYcAdB8o"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "id": "7ZeVndRpeYeGu3wrPVjd",
+                        "name": "working_dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "name": "bull_mastiff",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                    "id": "62RZu9DoV9PneYcAdB8o"
+                },
+                {
+                    "id": "7ZeVndRpeYeGu3wrPVjd",
+                    "name": "working_dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "wM79Rbil0g1tPAHfN0tw",
+                    "parent_id": "L5nAg4CVsieclFOfD69Y",
+                    "name": "golden_retriever"
+                }
+            ]
+        },
+        {
+            "image_id": "aEZVsbHl2A2SKwWS5lS7",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "name": "bulldog",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                        "from_wordnet": true,
+                        "id": "pfjlVaE5cAg2FKAhk30c"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "id": "7ZeVndRpeYeGu3wrPVjd",
+                        "name": "working_dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "name": "bulldog",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                    "from_wordnet": true,
+                    "id": "pfjlVaE5cAg2FKAhk30c"
+                },
+                {
+                    "id": "7ZeVndRpeYeGu3wrPVjd",
+                    "name": "working_dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "name": "bull_mastiff",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                    "id": "62RZu9DoV9PneYcAdB8o"
+                }
+            ]
+        },
+        {
+            "image_id": "sYel7cvO1S9sDyiLWEa9",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "parent_id": "F2raRLgQBO8QxexEP4My",
+                        "name": "cranberry",
+                        "id": "s4O0RaXN7xdDra1unIUf",
+                        "root_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "berry",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "id": "F2raRLgQBO8QxexEP4My",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "name": "cranberry",
+                    "id": "s4O0RaXN7xdDra1unIUf",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "wM79Rbil0g1tPAHfN0tw",
+                    "parent_id": "L5nAg4CVsieclFOfD69Y",
+                    "name": "golden_retriever"
+                },
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "FCDkei3wk6TZ1GoyW0yL",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "sedan"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "retriever",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "L5nAg4CVsieclFOfD69Y"
+                }
+            ]
+        },
+        {
+            "image_id": "WqZu268YxDbXNeUaW3CA",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "name": "pekinese",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "parent_id": "E9xPrUotzND6vHWJY8MW",
+                        "id": "xl1g3xoK3kjK19GSQchB"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "toy_dog",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "E9xPrUotzND6vHWJY8MW"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "name": "pekinese",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "id": "xl1g3xoK3kjK19GSQchB"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "toy_dog",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "E9xPrUotzND6vHWJY8MW"
+                },
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "2qbNWQGRUINl1ez0rIpm",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "ambulance"
+                },
+                {
+                    "name": "taxi",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "AhHOwaRq8NOqvSjDWNnh",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "tziiuvaJ8GFVLSjN28MF",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "name": "pekinese",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "parent_id": "E9xPrUotzND6vHWJY8MW",
+                        "id": "xl1g3xoK3kjK19GSQchB"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "toy_dog",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "E9xPrUotzND6vHWJY8MW"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "name": "pekinese",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "id": "xl1g3xoK3kjK19GSQchB"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "toy_dog",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "E9xPrUotzND6vHWJY8MW"
+                },
+                {
+                    "name": "berry",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "id": "F2raRLgQBO8QxexEP4My",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "IeZxhZ9I0r9qI5MMCm4T",
+                    "from_wordnet": true,
+                    "name": "blueberry"
+                }
+            ]
+        },
+        {
+            "image_id": "WGHvHwMcCh62kNjeSi2d",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "L5nAg4CVsieclFOfD69Y",
+                    "name": "labrador_retriever",
+                    "id": "qaNuGVIue8049dh8NEsH"
+                },
+                {
+                    "id": "4Z5p5oqOxDarue93PIMY",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "name": "chihuahua",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "E1589DqCvDMabmPBvR3g",
+                    "name": "blackberry",
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                }
+            ]
+        },
+        {
+            "image_id": "W8V1G6aR9WzmMFB4UvUp",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "id": "wM79Rbil0g1tPAHfN0tw",
+                        "parent_id": "L5nAg4CVsieclFOfD69Y",
+                        "name": "golden_retriever"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "retriever",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "id": "L5nAg4CVsieclFOfD69Y"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "wM79Rbil0g1tPAHfN0tw",
+                    "parent_id": "L5nAg4CVsieclFOfD69Y",
+                    "name": "golden_retriever"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "retriever",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "L5nAg4CVsieclFOfD69Y"
+                },
+                {
+                    "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "from_wordnet": true,
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "ZErDKBkLOV4VeVmLmhDh",
+                    "name": "trolleybus"
+                },
+                {
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "oLaq44U5v9Yenyt7Ao0H",
+                    "name": "suv"
+                }
+            ]
+        },
+        {
+            "image_id": "BxvwUtfmfz2cYEkzgAkx",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "id": "4Z5p5oqOxDarue93PIMY",
+                        "parent_id": "E9xPrUotzND6vHWJY8MW",
+                        "name": "chihuahua",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "toy_dog",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "E9xPrUotzND6vHWJY8MW"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "id": "4Z5p5oqOxDarue93PIMY",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "name": "chihuahua",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "yj6KEqRgIjg9Oryo3wct",
+                    "name": "banana"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "name": "cranberry",
+                    "id": "s4O0RaXN7xdDra1unIUf",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "name": "bulldog",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                    "from_wordnet": true,
+                    "id": "pfjlVaE5cAg2FKAhk30c"
+                }
+            ]
+        },
+        {
+            "image_id": "yXmTBXqcEgiG4QEZTpiY",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "uSme87VoYBAQQ2ukCBr5",
+                        "name": "watermelon",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "uSme87VoYBAQQ2ukCBr5",
+                    "name": "watermelon",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "name": "fruit",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                null
+            ]
+        },
+        {
+            "image_id": "zngjWkOpfcAfOCjfcrcd",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "parent_id": "F2raRLgQBO8QxexEP4My",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "IeZxhZ9I0r9qI5MMCm4T",
+                        "from_wordnet": true,
+                        "name": "blueberry"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "berry",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "id": "F2raRLgQBO8QxexEP4My",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "IeZxhZ9I0r9qI5MMCm4T",
+                    "from_wordnet": true,
+                    "name": "blueberry"
+                },
+                {
+                    "id": "4Z5p5oqOxDarue93PIMY",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "name": "chihuahua",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "name": "taxi",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "AhHOwaRq8NOqvSjDWNnh",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "hDH7m9BwChzfujsmPVuE",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true,
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "oLaq44U5v9Yenyt7Ao0H",
+                        "name": "suv"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "oLaq44U5v9Yenyt7Ao0H",
+                    "name": "suv"
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "name": "shih-tzu",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "id": "s5KcucLNVQd80swfcDHQ"
+                },
+                {
+                    "from_wordnet": true,
+                    "name": "bull_mastiff",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                    "id": "62RZu9DoV9PneYcAdB8o"
+                }
+            ]
+        },
+        {
+            "image_id": "Wykm1pbCIzZTBMN3A96Z",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "parent_id": "F2raRLgQBO8QxexEP4My",
+                        "name": "cranberry",
+                        "id": "s4O0RaXN7xdDra1unIUf",
+                        "root_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "berry",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "id": "F2raRLgQBO8QxexEP4My",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "name": "cranberry",
+                    "id": "s4O0RaXN7xdDra1unIUf",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "name": "berry",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "id": "F2raRLgQBO8QxexEP4My",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "2qbNWQGRUINl1ez0rIpm",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "ambulance"
+                }
+            ]
+        },
+        {
+            "image_id": "fkT3DU7Iv3Gn08I0FLm0",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "name": "raspberry",
+                        "parent_id": "F2raRLgQBO8QxexEP4My",
+                        "id": "hm5gJare1lkJl4aHAkSj"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "berry",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "id": "F2raRLgQBO8QxexEP4My",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "name": "raspberry",
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "id": "hm5gJare1lkJl4aHAkSj"
+                },
+                {
+                    "name": "berry",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "id": "F2raRLgQBO8QxexEP4My",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "name": "fruit",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "uSme87VoYBAQQ2ukCBr5",
+                    "name": "watermelon",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "3VSUqRjgUDou7jIibMhM",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true,
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "oLaq44U5v9Yenyt7Ao0H",
+                        "name": "suv"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "oLaq44U5v9Yenyt7Ao0H",
+                    "name": "suv"
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "name": "taxi",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "AhHOwaRq8NOqvSjDWNnh",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "name": "bull_mastiff",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                    "id": "62RZu9DoV9PneYcAdB8o"
+                }
+            ]
+        },
+        {
+            "image_id": "nkD0xBQJ5GCKocISmjSX",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "name": "apple",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "kLaF1ghEkqFKQMvHUoxU",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "name": "apple",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "kLaF1ghEkqFKQMvHUoxU",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "L5nAg4CVsieclFOfD69Y",
+                    "name": "labrador_retriever",
+                    "id": "qaNuGVIue8049dh8NEsH"
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "E1589DqCvDMabmPBvR3g",
+                    "name": "blackberry",
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "name": "bus",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "n7EpyEh4Ln74nBhwi22r",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "id": "4Z5p5oqOxDarue93PIMY",
+                        "parent_id": "E9xPrUotzND6vHWJY8MW",
+                        "name": "chihuahua",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "toy_dog",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "E9xPrUotzND6vHWJY8MW"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "id": "4Z5p5oqOxDarue93PIMY",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "name": "chihuahua",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "toy_dog",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "E9xPrUotzND6vHWJY8MW"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "retriever",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "L5nAg4CVsieclFOfD69Y"
+                }
+            ]
+        },
+        {
+            "image_id": "vVDl3Dbnhf1MGLAGA7KJ",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "uSme87VoYBAQQ2ukCBr5",
+                        "name": "watermelon",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "uSme87VoYBAQQ2ukCBr5",
+                    "name": "watermelon",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "retriever",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "L5nAg4CVsieclFOfD69Y"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "name": "shih-tzu",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "id": "s5KcucLNVQd80swfcDHQ"
+                }
+            ]
+        },
+        {
+            "image_id": "BWkbpWhWxjBQpG6gKSKE",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "name": "taxi",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "AhHOwaRq8NOqvSjDWNnh",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "name": "taxi",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "AhHOwaRq8NOqvSjDWNnh",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "from_wordnet": true,
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "L5nAg4CVsieclFOfD69Y",
+                    "name": "labrador_retriever",
+                    "id": "qaNuGVIue8049dh8NEsH"
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "uSme87VoYBAQQ2ukCBr5",
+                    "name": "watermelon",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "tr8IITCZECNxqXOqJFXL",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                        "from_wordnet": true,
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "ZErDKBkLOV4VeVmLmhDh",
+                        "name": "trolleybus"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "bus",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "from_wordnet": true,
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "ZErDKBkLOV4VeVmLmhDh",
+                    "name": "trolleybus"
+                },
+                {
+                    "name": "bus",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "id": "7ZeVndRpeYeGu3wrPVjd",
+                    "name": "working_dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ"
+                }
+            ]
+        },
+        {
+            "image_id": "c57H6hkfhGODnWunuoVv",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "FCDkei3wk6TZ1GoyW0yL",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true,
+                        "name": "sedan"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "FCDkei3wk6TZ1GoyW0yL",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "sedan"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "name": "cranberry",
+                    "id": "s4O0RaXN7xdDra1unIUf",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "oLaq44U5v9Yenyt7Ao0H",
+                    "name": "suv"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "toy_dog",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "E9xPrUotzND6vHWJY8MW"
+                }
+            ]
+        },
+        {
+            "image_id": "RaqTmbhcKwGhAfA0KXv2",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "E1589DqCvDMabmPBvR3g",
+                        "name": "blackberry",
+                        "parent_id": "F2raRLgQBO8QxexEP4My",
+                        "root_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "berry",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "id": "F2raRLgQBO8QxexEP4My",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "id": "E1589DqCvDMabmPBvR3g",
+                    "name": "blackberry",
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "name": "berry",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "id": "F2raRLgQBO8QxexEP4My",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "name": "fruit",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "uSme87VoYBAQQ2ukCBr5",
+                    "name": "watermelon",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "e8NRXX45hYsTrib4ER7t",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "id": "wM79Rbil0g1tPAHfN0tw",
+                        "parent_id": "L5nAg4CVsieclFOfD69Y",
+                        "name": "golden_retriever"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "retriever",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "id": "L5nAg4CVsieclFOfD69Y"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "id": "wM79Rbil0g1tPAHfN0tw",
+                    "parent_id": "L5nAg4CVsieclFOfD69Y",
+                    "name": "golden_retriever"
+                },
+                {
+                    "id": "4Z5p5oqOxDarue93PIMY",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "name": "chihuahua",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "uSme87VoYBAQQ2ukCBr5",
+                    "name": "watermelon",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "name": "shih-tzu",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "id": "s5KcucLNVQd80swfcDHQ"
+                }
+            ]
+        },
+        {
+            "image_id": "ejyesUKJIuLwmWNxfDNF",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "yj6KEqRgIjg9Oryo3wct",
+                        "name": "banana"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "yj6KEqRgIjg9Oryo3wct",
+                    "name": "banana"
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "name": "fruit",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "name": "cranberry",
+                    "id": "s4O0RaXN7xdDra1unIUf",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "2qbNWQGRUINl1ez0rIpm",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "ambulance"
+                }
+            ]
+        },
+        {
+            "image_id": "1QvAaGSlr6BPEUJSmnOG",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "2qbNWQGRUINl1ez0rIpm",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true,
+                        "name": "ambulance"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "2qbNWQGRUINl1ez0rIpm",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "ambulance"
+                },
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "FCDkei3wk6TZ1GoyW0yL",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "sedan"
+                },
+                {
+                    "from_wordnet": true,
+                    "name": "bull_mastiff",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                    "id": "62RZu9DoV9PneYcAdB8o"
+                },
+                {
+                    "id": "4Z5p5oqOxDarue93PIMY",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "name": "chihuahua",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "IEXLiwIttTM3VNDVvc27",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "name": "bus",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "name": "bus",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "name": "pekinese",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "id": "xl1g3xoK3kjK19GSQchB"
+                }
+            ]
+        },
+        {
+            "image_id": "bhgqVmxiu62Lzs1npZeS",
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "correct_answers": [
+                {
+                    "label": {
+                        "name": "bulldog",
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                        "from_wordnet": true,
+                        "id": "pfjlVaE5cAg2FKAhk30c"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "id": "7ZeVndRpeYeGu3wrPVjd",
+                        "name": "working_dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true,
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "name": "dog",
+                        "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "id": "lyuKCwC5JWTjxNoz2fxQ",
+                        "from_wordnet": true
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "name": "bulldog",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "7ZeVndRpeYeGu3wrPVjd",
+                    "from_wordnet": true,
+                    "id": "pfjlVaE5cAg2FKAhk30c"
+                },
+                {
+                    "id": "7ZeVndRpeYeGu3wrPVjd",
+                    "name": "working_dog",
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ"
+                },
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "2qbNWQGRUINl1ez0rIpm",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "ambulance"
+                },
+                {
+                    "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "from_wordnet": true,
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "ZErDKBkLOV4VeVmLmhDh",
+                    "name": "trolleybus"
+                }
+            ]
+        },
+        {
+            "image_id": "smk3tOZNIwxYmpeuyNil",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "yj6KEqRgIjg9Oryo3wct",
+                        "name": "banana"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "yj6KEqRgIjg9Oryo3wct",
+                    "name": "banana"
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "name": "fruit",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "name": "toy_dog",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "id": "E9xPrUotzND6vHWJY8MW"
+                },
+                {
+                    "from_wordnet": true,
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "L5nAg4CVsieclFOfD69Y",
+                    "name": "labrador_retriever",
+                    "id": "qaNuGVIue8049dh8NEsH"
+                }
+            ]
+        },
+        {
+            "image_id": "XgBwqFjty3g6LcRM361v",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "2qbNWQGRUINl1ez0rIpm",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true,
+                        "name": "ambulance"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "2qbNWQGRUINl1ez0rIpm",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "ambulance"
+                },
+                {
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "oLaq44U5v9Yenyt7Ao0H",
+                    "name": "suv"
+                },
+                {
+                    "parent_id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "from_wordnet": true,
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "ZErDKBkLOV4VeVmLmhDh",
+                    "name": "trolleybus"
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "E1589DqCvDMabmPBvR3g",
+                    "name": "blackberry",
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                }
+            ]
+        },
+        {
+            "image_id": "zjRhS8cGf5HApTmYkm3U",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "name": "bus",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "name": "bus",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "Ch2eUxZ20f1Sp4YI0mCD",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "E1589DqCvDMabmPBvR3g",
+                    "name": "blackberry",
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "name": "apple",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "kLaF1ghEkqFKQMvHUoxU",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "QEkXL7UKPcWq4KlWoD0v",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "E1589DqCvDMabmPBvR3g",
+                        "name": "blackberry",
+                        "parent_id": "F2raRLgQBO8QxexEP4My",
+                        "root_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "berry",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "id": "F2raRLgQBO8QxexEP4My",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "from_wordnet": true,
+                    "id": "E1589DqCvDMabmPBvR3g",
+                    "name": "blackberry",
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "name": "berry",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "id": "F2raRLgQBO8QxexEP4My",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "uSme87VoYBAQQ2ukCBr5",
+                    "name": "watermelon",
+                    "from_wordnet": true
+                },
+                {
+                    "from_wordnet": true,
+                    "id": "4PqaoKJYhAhChMWc28uK",
+                    "name": "car",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "parent_id": "4PqaoKJYhAhChMWc28uK"
+                }
+            ]
+        },
+        {
+            "image_id": "haFNV7D7dz7edxkFA084",
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "correct_answers": [
+                {
+                    "label": {
+                        "parent_id": "F2raRLgQBO8QxexEP4My",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "IeZxhZ9I0r9qI5MMCm4T",
+                        "from_wordnet": true,
+                        "name": "blueberry"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "name": "berry",
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "id": "F2raRLgQBO8QxexEP4My",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 50
+                },
+                {
+                    "label": {
+                        "root_id": "aYB1zePOADgNPEeLQlQw",
+                        "from_wordnet": true,
+                        "name": "fruit",
+                        "parent_id": "aYB1zePOADgNPEeLQlQw",
+                        "id": "aYB1zePOADgNPEeLQlQw"
+                    },
+                    "points": 25
+                }
+            ],
+            "choices": [
+                {
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "IeZxhZ9I0r9qI5MMCm4T",
+                    "from_wordnet": true,
+                    "name": "blueberry"
+                },
+                {
+                    "name": "berry",
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "from_wordnet": true,
+                    "id": "F2raRLgQBO8QxexEP4My",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "from_wordnet": true,
+                    "parent_id": "F2raRLgQBO8QxexEP4My",
+                    "name": "cranberry",
+                    "id": "s4O0RaXN7xdDra1unIUf",
+                    "root_id": "aYB1zePOADgNPEeLQlQw"
+                },
+                {
+                    "root_id": "aYB1zePOADgNPEeLQlQw",
+                    "parent_id": "aYB1zePOADgNPEeLQlQw",
+                    "id": "uSme87VoYBAQQ2ukCBr5",
+                    "name": "watermelon",
+                    "from_wordnet": true
+                }
+            ]
+        },
+        {
+            "image_id": "TFN5Bc26hhXRXnv57YPG",
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "correct_answers": [
+                {
+                    "label": {
+                        "parent_id": "4PqaoKJYhAhChMWc28uK",
+                        "id": "FCDkei3wk6TZ1GoyW0yL",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "from_wordnet": true,
+                        "name": "sedan"
+                    },
+                    "points": 100
+                },
+                {
+                    "label": {
+                        "from_wordnet": true,
+                        "id": "4PqaoKJYhAhChMWc28uK",
+                        "name": "car",
+                        "root_id": "4PqaoKJYhAhChMWc28uK",
+                        "parent_id": "4PqaoKJYhAhChMWc28uK"
+                    },
+                    "points": 50
+                }
+            ],
+            "choices": [
+                {
+                    "parent_id": "4PqaoKJYhAhChMWc28uK",
+                    "id": "FCDkei3wk6TZ1GoyW0yL",
+                    "root_id": "4PqaoKJYhAhChMWc28uK",
+                    "from_wordnet": true,
+                    "name": "sedan"
+                },
+                {
+                    "from_wordnet": true,
+                    "name": "pekinese",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "id": "xl1g3xoK3kjK19GSQchB"
+                },
+                {
+                    "id": "4Z5p5oqOxDarue93PIMY",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "name": "chihuahua",
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true
+                },
+                {
+                    "root_id": "lyuKCwC5JWTjxNoz2fxQ",
+                    "from_wordnet": true,
+                    "name": "shih-tzu",
+                    "parent_id": "E9xPrUotzND6vHWJY8MW",
+                    "id": "s5KcucLNVQd80swfcDHQ"
+                }
+            ]
+        }
+    ]
+}
