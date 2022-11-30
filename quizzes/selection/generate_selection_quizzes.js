@@ -94,11 +94,15 @@ const getDisplayLabelAndCorrectAnswers = (nineImages, imageLabelRecords, labels)
 const generateQuizzes = async(images, imageLabelRecords, labels) => {
     const TOTAL_QUIZZES = 20;
     const TOTAL_POINTS_PER_QUIZ = 300;
+
     const nineImages = getNineImages(images); // attribute name: selections
     const res = getDisplayLabelAndCorrectAnswers(nineImages, imageLabelRecords, labels);
     // console.log(res);
     const labelId = res["label_id"];
     const correctImageIds = res["correct_image_ids"];
+
+    var quiz = {};
+    quiz["selections"] = nineImages;
 }
 
 // execution starts here
