@@ -1,3 +1,6 @@
+// This script does NOT generate the quizzes completely randomly.
+// If this script is re-used, please do the duplication check!
+
 const fs = require('fs');
 const admin = require('firebase-admin');
 
@@ -29,22 +32,22 @@ const getData = async() => {
 }
 
 const getCorrectAnswers = (id, labels) => {
-    // points: 100, 50, 25, ...
-    const MAX_POINTS = 100;
+    // points: 200, 100, 50, ...
+    const MAX_POINTS = 200;
     // one correct answer looks like: {"label": {...}, "points": 100}
     var correctAnswers = [];
     var curId = id;
     var dist = 1;
     while (true) {
         var correctAnswer = {};
-        correctAnswer["label"] = labels[curId];
+        correctAnswer["label_id"] = curId;
         correctAnswer["points"] = Math.floor(MAX_POINTS / dist);
         correctAnswers.push(correctAnswer);
         dist *= 2;
         curId = labels[curId]["parent_id"];
         if (labels[curId]["root_id"] === curId) {
             var rootAnswer = {};
-            rootAnswer["label"] = labels[curId];
+            rootAnswer["label_id"] = curId;
             rootAnswer["points"] = Math.floor(MAX_POINTS / dist);
             correctAnswers.push(rootAnswer);
             break;
@@ -70,19 +73,19 @@ const generateChoices = (correctAnswers, labels) => {
     // add correct choices
     var pickedIds = [];
     for (var i = 0; i < CORRECT_CHOICES; ++i) {
-        choices.push(correctAnswers[i]["label"]);
-        pickedIds.push(correctAnswers[i]["label"]["id"]);
+        choices.push(correctAnswers[i]["label_id"]);
+        pickedIds.push(correctAnswers[i]["label_id"]);
     }
 
     // add wrong choices
     const labelIds = Object.keys(labels);
-    console.log(labelIds);
+    // console.log(labelIds);
     for (var i = 0; i < WRONG_CHOICES; ++i) {
-        var randomIdx = getRandomIntInclusive(0, labelIds.length);
+        var randomIdx = getRandomIntInclusive(0, labelIds.length - 1);
         while (pickedIds.includes(labelIds[randomIdx])) {
-            randomIdx = getRandomIntInclusive(0, labelIds.length);
+            randomIdx = getRandomIntInclusive(0, labelIds.length - 1);
         }
-        choices.push(labels[labelIds[randomIdx]]);
+        choices.push(labelIds[randomIdx]);
         pickedIds.push(labelIds[randomIdx]);
     }
 
@@ -98,9 +101,9 @@ const generateQuizzes = async(imageLabelRecords, labels) => {
         const correctAnswers = getCorrectAnswers(rec["label_id"], labels);
         quiz["correct_answers"] = correctAnswers;
         quiz["choices"] = generateChoices(correctAnswers, labels);
-        // const ref = multipleChoiceQuizzesCollection.doc();
-        // quiz["id"] = ref.id;
-        // await ref.set(quiz, {merge: true});
+        const ref = multipleChoiceQuizzesCollection.doc();
+        quiz["id"] = ref.id;
+        await ref.set(quiz, {merge: true});
         allJsonData["quizzes"].push(quiz);
     }
     console.log(allJsonData);
