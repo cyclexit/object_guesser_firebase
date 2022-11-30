@@ -28,14 +28,48 @@ const getData = async() => {
     };
 }
 
+const getCorrectAnswers = (id, labels) => {
+    // points: 100, 50, 25, ...
+    const MAX_POINTS = 100;
+    // one correct answer looks like: {"label": {...}, "points": 100}
+    var correctAnswers = [];
+    var curId = id;
+    var dist = 1;
+    while (true) {
+        var correctAnswer = {};
+        correctAnswer["label"] = labels[curId];
+        correctAnswer["points"] = Math.floor(MAX_POINTS / dist);
+        correctAnswers.push(correctAnswer);
+        dist *= 2;
+        curId = labels[curId]["parent_id"];
+        if (labels[curId]["root_id"] === curId) {
+            var rootAnswer = {};
+            rootAnswer["label"] = labels[curId];
+            rootAnswer["points"] = Math.floor(MAX_POINTS / dist);
+            correctAnswers.push(rootAnswer);
+            break;
+        }
+    }
+    console.log(correctAnswer);
+    return correctAnswers;
+}
+
 const generateQuizzes = async(imageLabelRecords, labels) => {
     var allJsonData = {"quizzes": []}; // written to the file for the debug purpose
+    for (const rec of imageLabelRecords) {
+        var quiz = {};
+        quiz["image_id"] = rec["image_id"];
+        quiz["category_id"] = labels[rec["label_id"]]["root_id"];
+        quiz["correct_answers"] = getCorrectAnswers(rec["label_id"], labels);
+        allJsonData["quizzes"].push(quiz);
+    }
+    console.log(allJsonData);
+    fs.writeFileSync("input_quizzes.json", JSON.stringify(allJsonData, null, 4));
     return allJsonData;
 }
 
 getData().then(data => {
     const imageLabelRecords = data["imageLabelRecords"];
     const labels = data["labels"];
-    console.log(imageLabelRecords);
-    console.log(labels);
+    generateQuizzes(imageLabelRecords, labels);
 });
