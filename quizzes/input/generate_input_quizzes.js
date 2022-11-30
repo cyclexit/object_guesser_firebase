@@ -6,7 +6,7 @@ const INPUT_QUIZZES = "input_quizzes";
 const IMAGE_LABEL_RECORDS = "image_label_records";
 
 admin.initializeApp({
-    credential: admin.credential.cert(require('../credentials.json'))
+    credential: admin.credential.cert(require('../../credentials.json'))
 })
 const db = admin.firestore();
 const labelsCollection = db.collection(LABELS); // get all correct answers
