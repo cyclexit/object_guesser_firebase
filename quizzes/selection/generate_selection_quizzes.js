@@ -48,38 +48,57 @@ const getNineImages = (images) => {
     return nineImages;
 }
 
-const getDisplayLabel = (nineImages, imageLabelRecords, labels) => {
-    var labelCounter = {};
+function getRandomIntInclusive(min, max) {
+    min = Math.ceil(min);sortedlabelToImagesList
+    max = Math.floor(max);
+    // The maximum is inclusive and the minimum is inclusive
+    return Math.floor(Math.random() * (max - min + 1) + min);
+}
+
+const getDisplayLabelAndCorrectAnswers = (nineImages, imageLabelRecords, labels) => {
+    // {label_id: [correct_image_ids, ...]}
+    var labelToImages = {};
     for (const img of nineImages) {
         const imgLabelId = imageLabelRecords[img["id"]];
 
         var curLabelId = imgLabelId;
         // console.log(curLabelId);
         while (true) {
-            if (Object.keys(labelCounter).includes(curLabelId)) {
-                labelCounter[curLabelId].push(img["id"]);
+            if (Object.keys(labelToImages).includes(curLabelId)) {
+                labelToImages[curLabelId].push(img["id"]);
             } else {
-                labelCounter[curLabelId] = [img["id"]];
+                labelToImages[curLabelId] = [img["id"]];
             }
             curLabelId = labels[curLabelId]["parent_id"];
 
             if (curLabelId === labels[curLabelId]["root_id"]) {
-                if (Object.keys(labelCounter).includes(curLabelId)) {
-                    labelCounter[curLabelId].push(img["id"]);
+                if (Object.keys(labelToImages).includes(curLabelId)) {
+                    labelToImages[curLabelId].push(img["id"]);
                 } else {
-                    labelCounter[curLabelId] = [img["id"]];
+                    labelToImages[curLabelId] = [img["id"]];
                 }
                 break;
             }
         }
     }
-    console.log(labelCounter);
+    // console.log("original: ", labelToImages);
+    const sortedlabelToImagesList = Object.entries(labelToImages).sort(([, a], [, b]) => a.length - b.length);
+    // console.log("sorted: ", sortedlabelToImagesList);
+    const randomIdx = getRandomIntInclusive(0, sortedlabelToImagesList.length - 1);
+    return {
+        "label_id": sortedlabelToImagesList[randomIdx][0],
+        "correct_image_ids": sortedlabelToImagesList[randomIdx][1],
+    };
 }
 
 const generateQuizzes = async(images, imageLabelRecords, labels) => {
     const TOTAL_QUIZZES = 20;
-    const nineImages = getNineImages(images);
-    getDisplayLabel(nineImages, imageLabelRecords, labels);
+    const TOTAL_POINTS_PER_QUIZ = 300;
+    const nineImages = getNineImages(images); // attribute name: selections
+    const res = getDisplayLabelAndCorrectAnswers(nineImages, imageLabelRecords, labels);
+    // console.log(res);
+    const labelId = res["label_id"];
+    const correctImageIds = res["correct_image_ids"];
 }
 
 // execution starts here
