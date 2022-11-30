@@ -1,3 +1,6 @@
+// This script generates the quizzes completely randomly.
+// Hence, this script can be reused without any duplication check.
+
 const fs = require('fs');
 const admin = require('firebase-admin');
 
@@ -13,7 +16,7 @@ const db = admin.firestore();
 const labelsCollection = db.collection(LABELS); // get all correct answers
 const imageLabelRecordsCollection = db.collection(IMAGE_LABEL_RECORDS); // get category_id
 const imagesCollection = db.collection(IMAGES);
-const selectionQuizzes = db.collection(SELECTION_QUIZZES);
+const selectionQuizzesCollection = db.collection(SELECTION_QUIZZES);
 
 // generate the quiz for labelled images
 const getData = async() => {
@@ -49,7 +52,7 @@ const getNineImages = (images) => {
 }
 
 function getRandomIntInclusive(min, max) {
-    min = Math.ceil(min);sortedlabelToImagesList
+    min = Math.ceil(min);
     max = Math.floor(max);
     // The maximum is inclusive and the minimum is inclusive
     return Math.floor(Math.random() * (max - min + 1) + min);
@@ -92,17 +95,38 @@ const getDisplayLabelAndCorrectAnswers = (nineImages, imageLabelRecords, labels)
 }
 
 const generateQuizzes = async(images, imageLabelRecords, labels) => {
-    const TOTAL_QUIZZES = 20;
+    const TOTAL_QUIZZES = 90;
     const TOTAL_POINTS_PER_QUIZ = 300;
 
-    const nineImages = getNineImages(images); // attribute name: selections
-    const res = getDisplayLabelAndCorrectAnswers(nineImages, imageLabelRecords, labels);
-    // console.log(res);
-    const labelId = res["label_id"];
-    const correctImageIds = res["correct_image_ids"];
-
-    var quiz = {};
-    quiz["selections"] = nineImages;
+    var allJsonData = {"quizzes": []}; // for the debug purpose
+    for (var i = 0; i < TOTAL_QUIZZES; ++i) {
+        const nineImages = getNineImages(images); // attribute name: selections
+        const res = getDisplayLabelAndCorrectAnswers(nineImages, imageLabelRecords, labels);
+        // console.log(res);
+        const labelId = res["label_id"];
+        const correctImageIds = res["correct_image_ids"];
+        var quiz = {};
+        quiz["label_id"] = labelId;
+        quiz["category_id"] = labels[labelId]["root_id"];
+        quiz["selections"] = [];
+        for (const img of nineImages) {
+            quiz["selections"].push(img["id"]);
+        }
+        quiz["correct_answers"] = []
+        for (const correctId of correctImageIds) {
+            quiz["correct_answers"].push({
+                "image_id": correctId,
+                "points": Math.floor(TOTAL_POINTS_PER_QUIZ / correctImageIds.length)
+            });
+        }
+        const ref = selectionQuizzesCollection.doc();
+        quiz["id"] = ref.id;
+        await ref.set(quiz, {merge: true});
+        console.log(quiz);
+        allJsonData["quizzes"].push(quiz);
+    }
+    fs.writeFileSync(SELECTION_QUIZZES.concat(".json"), JSON.stringify(allJsonData, null, 4));
+    return allJsonData;
 }
 
 // execution starts here
