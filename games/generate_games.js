@@ -103,6 +103,11 @@ const generateGames = async() => {
 
             const selectionShuffled = quizzes["selection"][catId].sort((a, b) => 0.5 - Math.random());
             selectionShuffled.slice(0, SELECTION_NUM).forEach(qid => game["quiz_ids"].push(qid));
+
+            const ref = gamesCollection.doc();
+            game["id"] = ref.id;
+            await ref.set(game, {merge: true});
+
             allJsonData[catId].push(game);
         }
     }
