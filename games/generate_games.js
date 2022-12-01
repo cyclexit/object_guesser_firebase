@@ -1,3 +1,6 @@
+// This script generates the quizzes completely randomly.
+// Hence, this script can be reused without any duplication check.
+
 const fs = require('fs');
 const admin = require('firebase-admin');
 
@@ -38,7 +41,38 @@ const getAllQuizzes = async() => {
     }
 }
 
+function getRandomIntInclusive(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    // The maximum is inclusive and the minimum is inclusive
+    return Math.floor(Math.random() * (max - min + 1) + min);
+}
+
 const generateGames = async() => {
+    const MAX_GAMES_PER_CATEGORY = 10;
+    const MAX_QUIZZES_PER_GAME = 10;
+    const MULTIPLE_CHOICE_NUM = getRandomIntInclusive(3, 4);
+    const INPUT_NUM = getRandomIntInclusive(3, 4);
+    const SELECTION_NUM = MAX_QUIZZES_PER_GAME - MULTIPLE_CHOICE_NUM - INPUT_NUM;
+
     const categoryIds = await getCategoryIds();
     const quizzes = await getAllQuizzes();
+
+    for (const categoryId of categoryIds) {
+        var game = {};
+        game["category_id"] = categoryId;
+        game["quiz_ids"] = [];
+        for (var i = 0; i < MAX_GAMES_PER_CATEGORY; ++i) {
+            // TODO: implement this
+            for (var j = 0; j < MULTIPLE_CHOICE_NUM; ++j) {
+
+            }
+            for (var j = 0; j < INPUT_NUM; ++j) {
+
+            }
+            for (var j = 0; j < SELECTION_NUM; ++j) {
+
+            }
+        }
+    }
 }
