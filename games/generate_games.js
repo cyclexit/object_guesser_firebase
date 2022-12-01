@@ -8,15 +8,17 @@ const LABELS = "labels";
 const MULTIPLE_CHOICE_QUIZZES = "multiple_choice_quizzes";
 const INPUT_QUIZZES = "input_quizzes";
 const SELECTION_QUIZZES = "selection_quizzes";
+const GAMES = "games";
 
 admin.initializeApp({
-    credential: admin.credential.cert(require('../../credentials.json'))
+    credential: admin.credential.cert(require('../credentials.json'))
 });
 const db = admin.firestore();
 const labelsCollection = db.collection(LABELS);
 const multipleChoiceQuizzesCollection = db.collection(MULTIPLE_CHOICE_QUIZZES);
 const inputQuizzesCollection = db.collection(INPUT_QUIZZES);
 const selectionQuizzesCollection = db.collection(SELECTION_QUIZZES);
+const gamesCollection = db.collection(GAMES);
 
 const getCategoryIds = async() => {
     var categoryIds = [];
@@ -30,14 +32,37 @@ const getCategoryIds = async() => {
     return categoryIds;
 }
 
-const getAllQuizzes = async() => {
+const getQuizzesByCategory = async(categoryIds) => {
     const multipleChoiceSnapshot = await multipleChoiceQuizzesCollection.get();
     const inputSnapshot = await inputQuizzesCollection.get();
     const selectionSnapshot = await selectionQuizzesCollection.get();
+
+    var mc = {};
+    var input = {};
+    var selection = {};
+    for (const catId of categoryIds) {
+        mc[catId] = [];
+        input[catId] = [];
+        selection[catId] = [];
+    }
+
+    multipleChoiceSnapshot.docs.forEach(doc => {
+        const quiz = doc.data();
+        mc[quiz["category_id"]].push(quiz["id"]);
+    });
+    inputSnapshot.docs.forEach(doc => {
+        const quiz = doc.data();
+        input[quiz["category_id"]].push(quiz["id"]);
+    });
+    selectionSnapshot.docs.forEach(doc => {
+        const quiz = doc.data();
+        selection[quiz["category_id"]].push(quiz["id"]);
+    });
+
     return {
-        "multiple_choice": multipleChoiceSnapshot.docs.map(doc => doc.data()),
-        "input": inputSnapshot.docs.map(doc => doc.data()),
-        "selection": selectionSnapshot.docs.map(doc => doc.data())
+        "multiple_choice": mc,
+        "input": input,
+        "selection": selection
     }
 }
 
@@ -55,8 +80,10 @@ const generateGames = async() => {
     const INPUT_NUM = getRandomIntInclusive(3, 4);
     const SELECTION_NUM = MAX_QUIZZES_PER_GAME - MULTIPLE_CHOICE_NUM - INPUT_NUM;
 
+    var allJsonData = {}; // for debug purpose
     const categoryIds = await getCategoryIds();
-    const quizzes = await getAllQuizzes();
+    const quizzes = await getQuizzesByCategory(categoryIds);
+    console.log(quizzes); // debug
 
     for (const categoryId of categoryIds) {
         var game = {};
@@ -76,3 +103,6 @@ const generateGames = async() => {
         }
     }
 }
+
+// execution starts here
+generateGames();
