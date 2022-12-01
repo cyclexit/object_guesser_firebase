@@ -77,31 +77,38 @@ const generateGames = async() => {
     const MAX_GAMES_PER_CATEGORY = 10;
     const MAX_QUIZZES_PER_GAME = 10;
     const MULTIPLE_CHOICE_NUM = getRandomIntInclusive(3, 4);
-    const INPUT_NUM = getRandomIntInclusive(3, 4);
+    const INPUT_NUM = getRandomIntInclusive(2, 3);
     const SELECTION_NUM = MAX_QUIZZES_PER_GAME - MULTIPLE_CHOICE_NUM - INPUT_NUM;
 
-    var allJsonData = {}; // for debug purpose
     const categoryIds = await getCategoryIds();
     const quizzes = await getQuizzesByCategory(categoryIds);
-    console.log(quizzes); // debug
+    // console.log(quizzes); // debug
 
-    for (const categoryId of categoryIds) {
-        var game = {};
-        game["category_id"] = categoryId;
-        game["quiz_ids"] = [];
+    var allJsonData = {}; // for debug purpose
+    for (const catId of categoryIds) {
+        allJsonData[catId] = [];
+    }
+
+    for (const catId of categoryIds) {
         for (var i = 0; i < MAX_GAMES_PER_CATEGORY; ++i) {
+            var game = {};
+            game["category_id"] = catId;
+            game["quiz_ids"] = [];
             // TODO: implement this
-            for (var j = 0; j < MULTIPLE_CHOICE_NUM; ++j) {
+            const mcShuffled = quizzes["multiple_choice"][catId].sort((a, b) => 0.5 - Math.random());
+            mcShuffled.slice(0, MULTIPLE_CHOICE_NUM).forEach(qid => game["quiz_ids"].push(qid));
+            
+            const inputShuffled = quizzes["input"][catId].sort((a, b) => 0.5 - Math.random());
+            inputShuffled.slice(0, INPUT_NUM).forEach(qid => game["quiz_ids"].push(qid));
 
-            }
-            for (var j = 0; j < INPUT_NUM; ++j) {
-
-            }
-            for (var j = 0; j < SELECTION_NUM; ++j) {
-
-            }
+            const selectionShuffled = quizzes["selection"][catId].sort((a, b) => 0.5 - Math.random());
+            selectionShuffled.slice(0, SELECTION_NUM).forEach(qid => game["quiz_ids"].push(qid));
+            allJsonData[catId].push(game);
         }
     }
+
+    fs.writeFileSync(GAMES.concat(".json"), JSON.stringify(allJsonData, null, 4));
+    return allJsonData;
 }
 
 // execution starts here
