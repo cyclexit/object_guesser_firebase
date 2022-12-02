@@ -99,7 +99,7 @@ const generateGames = async() => {
             mcShuffled.slice(0, MULTIPLE_CHOICE_NUM).forEach(qid => {
                 game["quizzes"].push({
                     "id": qid,
-                    "type": MULTIPLE_CHOICE_QUIZZES
+                    "collection": MULTIPLE_CHOICE_QUIZZES
                 });
             });
             
@@ -107,7 +107,7 @@ const generateGames = async() => {
             inputShuffled.slice(0, INPUT_NUM).forEach(qid => {
                 game["quizzes"].push({
                     "id": qid,
-                    "type": INPUT_QUIZZES
+                    "collection": INPUT_QUIZZES
                 });
             });
 
@@ -115,7 +115,7 @@ const generateGames = async() => {
             selectionShuffled.slice(0, SELECTION_NUM).forEach(qid => {
                 game["quizzes"].push({
                     "id": qid,
-                    "type": SELECTION_QUIZZES
+                    "collection": SELECTION_QUIZZES
                 });
             });
 

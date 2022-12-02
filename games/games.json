@@ -4,461 +4,461 @@
             "category_id": "4PqaoKJYhAhChMWc28uK",
             "quizzes": [
                 {
-                    "id": "SpgZNnnHSH5SDz3TDtna",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "5jBz5PNejEVCMwr9eFaG",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "x6sW6ZcZ65fG7PPerNvX",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "G2H67DDALJ3oEgr6DWgN",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "2ih2KeBKKuVkmAG4CztS",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "HaJwpIzvMt1gr4Nezfpr",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "bDrffnYQRQgWvOlrfqB7",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "ep7mNwo7VmFjbWjrNjxF",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "6DI117GcbzvnWQGSIdoA",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "Dit1ZsDLxKt3oe9JgGzH",
-                    "type": "multiple_choice_quizzes"
-                }
-            ],
-            "id": "lHKTTKJeD9hZPjGNuIJr"
-        },
-        {
-            "category_id": "4PqaoKJYhAhChMWc28uK",
-            "quizzes": [
-                {
-                    "id": "ep7mNwo7VmFjbWjrNjxF",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "r6t4VUHG8Ke2laKvCrh1",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "rRP6UBrZx7LARH5whyc1",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "5J8vRjfpnov6G9Nmim4k",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "B32BAuyLy3S7xMU19Wmb",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "qBVfypDipDD4WAFzBDeP",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "2OidNcBZUmOlicig29oP",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "6uPUWH5kBM3yPI7pos62",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "G8gysmuncnmsdt2nUvUJ",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "G2H67DDALJ3oEgr6DWgN",
-                    "type": "selection_quizzes"
-                }
-            ],
-            "id": "7BLjJKqxeFJ4rBQfGQcp"
-        },
-        {
-            "category_id": "4PqaoKJYhAhChMWc28uK",
-            "quizzes": [
-                {
-                    "id": "JfNQSvnORVnWBWYVELCM",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "6uPUWH5kBM3yPI7pos62",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "GD4jCDXVWH4tDhOvUGbb",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "Dit1ZsDLxKt3oe9JgGzH",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "bDrffnYQRQgWvOlrfqB7",
-                    "type": "input_quizzes"
-                },
-                {
                     "id": "Cp6XCXwXDE8PthWqPWx0",
-                    "type": "selection_quizzes"
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "g2C6OsCmcS2uSZe8kzI6",
-                    "type": "multiple_choice_quizzes"
+                    "id": "9USssyUDS5701rzvv0yu",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "6uPUWH5kBM3yPI7pos62",
+                    "collection": "input_quizzes"
                 },
                 {
                     "id": "za5Q4drHjuIelQtYNups",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "oAlpBwy9HxofRtHdPOHv",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "x3OP1DOQgRgWIHdFTrag",
-                    "type": "multiple_choice_quizzes"
-                }
-            ],
-            "id": "WABxlPnPJEmPZSEec1H5"
-        },
-        {
-            "category_id": "4PqaoKJYhAhChMWc28uK",
-            "quizzes": [
-                {
-                    "id": "9USssyUDS5701rzvv0yu",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "qBVfypDipDD4WAFzBDeP",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "x3OP1DOQgRgWIHdFTrag",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "Zl09ZwjaFbTvVJnwmqgz",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "HaJwpIzvMt1gr4Nezfpr",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "G2H67DDALJ3oEgr6DWgN",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "ep7mNwo7VmFjbWjrNjxF",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "Cp6XCXwXDE8PthWqPWx0",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "LOBhnML9LB1JTMLnOHFs",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "TSWa2Lpem18FqPOMsOPF",
-                    "type": "selection_quizzes"
-                }
-            ],
-            "id": "klQVhMixVfAw0UEVC0lL"
-        },
-        {
-            "category_id": "4PqaoKJYhAhChMWc28uK",
-            "quizzes": [
-                {
-                    "id": "DCsmUXlCONyzgRPO1pno",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "ep7mNwo7VmFjbWjrNjxF",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "QqbAOWsRbMkHLbZBmHsi",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "G2H67DDALJ3oEgr6DWgN",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "aXy3RfwggRWBRr0WGAZr",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "9USssyUDS5701rzvv0yu",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "Dit1ZsDLxKt3oe9JgGzH",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "5J8vRjfpnov6G9Nmim4k",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "LElGqCObE4tpSNyqq0Yw",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "Cs4nTXtsdbRcI7w5W17M",
-                    "type": "input_quizzes"
-                }
-            ],
-            "id": "GGccpNcS4tix9Zm2V2EB"
-        },
-        {
-            "category_id": "4PqaoKJYhAhChMWc28uK",
-            "quizzes": [
-                {
-                    "id": "QqbAOWsRbMkHLbZBmHsi",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "Dit1ZsDLxKt3oe9JgGzH",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "ZmoVvzD0LerVUn43RPBd",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "LOBhnML9LB1JTMLnOHFs",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "PXCPBYJy4cv3LbHJoVKQ",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "4Xejo1n0XNmNSPNWPu3q",
-                    "type": "selection_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "B32BAuyLy3S7xMU19Wmb",
-                    "type": "selection_quizzes"
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "DCsmUXlCONyzgRPO1pno",
-                    "type": "selection_quizzes"
+                    "id": "ZmoVvzD0LerVUn43RPBd",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "7dxTHJgycCFrNvwrgTOD",
-                    "type": "input_quizzes"
+                    "id": "qBVfypDipDD4WAFzBDeP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "ruUtn04tdGrQ1VEVua3l",
+                    "collection": "selection_quizzes"
                 },
                 {
                     "id": "IYDJet6Du6jpKuavLlFY",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "4Xejo1n0XNmNSPNWPu3q",
+                    "collection": "selection_quizzes"
                 }
             ],
-            "id": "xwHAxZeDlQThgtXAs2Yu"
+            "id": "6JAW1fuGadDNTgyObywL"
         },
         {
             "category_id": "4PqaoKJYhAhChMWc28uK",
             "quizzes": [
                 {
-                    "id": "JfNQSvnORVnWBWYVELCM",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "s6GI2vUSg0hb3N8ESxsM",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "za5Q4drHjuIelQtYNups",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "2OidNcBZUmOlicig29oP",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "Dit1ZsDLxKt3oe9JgGzH",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "7dxTHJgycCFrNvwrgTOD",
-                    "type": "input_quizzes"
+                    "id": "mKwU3Mw4VOaDlwuMyYXm",
+                    "collection": "selection_quizzes"
                 },
                 {
                     "id": "qBVfypDipDD4WAFzBDeP",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "DCsmUXlCONyzgRPO1pno",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "UIO6g01omKMRmOGvUAkv",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "LOBhnML9LB1JTMLnOHFs",
-                    "type": "input_quizzes"
-                }
-            ],
-            "id": "xc6pLAAjagbNaYYo5a6B"
-        },
-        {
-            "category_id": "4PqaoKJYhAhChMWc28uK",
-            "quizzes": [
-                {
-                    "id": "2OidNcBZUmOlicig29oP",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "GD4jCDXVWH4tDhOvUGbb",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "QqbAOWsRbMkHLbZBmHsi",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "G2H67DDALJ3oEgr6DWgN",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "Dit1ZsDLxKt3oe9JgGzH",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "6DI117GcbzvnWQGSIdoA",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "qBVfypDipDD4WAFzBDeP",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "za5Q4drHjuIelQtYNups",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "Zl09ZwjaFbTvVJnwmqgz",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "bLa0WUikrc3iplBllR2S",
-                    "type": "selection_quizzes"
-                }
-            ],
-            "id": "6Etu4bozL1Ap2QIFQJUm"
-        },
-        {
-            "category_id": "4PqaoKJYhAhChMWc28uK",
-            "quizzes": [
-                {
-                    "id": "Dit1ZsDLxKt3oe9JgGzH",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "DCsmUXlCONyzgRPO1pno",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "za5Q4drHjuIelQtYNups",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "TSWa2Lpem18FqPOMsOPF",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "x6sW6ZcZ65fG7PPerNvX",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "rRP6UBrZx7LARH5whyc1",
-                    "type": "selection_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "ZmoVvzD0LerVUn43RPBd",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "Cs4nTXtsdbRcI7w5W17M",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "za5Q4drHjuIelQtYNups",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "B32BAuyLy3S7xMU19Wmb",
+                    "collection": "selection_quizzes"
                 },
                 {
                     "id": "QqbAOWsRbMkHLbZBmHsi",
-                    "type": "input_quizzes"
+                    "collection": "input_quizzes"
                 },
                 {
-                    "id": "qBVfypDipDD4WAFzBDeP",
-                    "type": "multiple_choice_quizzes"
+                    "id": "TSWa2Lpem18FqPOMsOPF",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "5J8vRjfpnov6G9Nmim4k",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "WqqpQplosrkCQ3HrYRiR",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "hR2TiaifoPQfisdRiYVh"
+        },
+        {
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "quizzes": [
+                {
+                    "id": "za5Q4drHjuIelQtYNups",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "6uPUWH5kBM3yPI7pos62",
-                    "type": "input_quizzes"
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "lJEjq4egFVBeSdUHBmH5",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "x6sW6ZcZ65fG7PPerNvX",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "4Xejo1n0XNmNSPNWPu3q",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "B32BAuyLy3S7xMU19Wmb",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "HaJwpIzvMt1gr4Nezfpr",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "SpgZNnnHSH5SDz3TDtna",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "2OidNcBZUmOlicig29oP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "x3OP1DOQgRgWIHdFTrag",
+                    "collection": "multiple_choice_quizzes"
                 }
             ],
-            "id": "DjoHTuBjz5psEnZ7ZC3c"
+            "id": "wZhZQSUy9gKcFNI9SrT2"
+        },
+        {
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "quizzes": [
+                {
+                    "id": "IYDJet6Du6jpKuavLlFY",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "LElGqCObE4tpSNyqq0Yw",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "B32BAuyLy3S7xMU19Wmb",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "2OidNcBZUmOlicig29oP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "6uPUWH5kBM3yPI7pos62",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "x3OP1DOQgRgWIHdFTrag",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "6DI117GcbzvnWQGSIdoA",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "mKwU3Mw4VOaDlwuMyYXm",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "ep7mNwo7VmFjbWjrNjxF",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "GD4jCDXVWH4tDhOvUGbb",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "H87CGprBmelnagKwsozs"
+        },
+        {
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "quizzes": [
+                {
+                    "id": "4Xejo1n0XNmNSPNWPu3q",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "x6sW6ZcZ65fG7PPerNvX",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "dkisru7MD9VV6Gp3SXYd",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "Cp6XCXwXDE8PthWqPWx0",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "ep7mNwo7VmFjbWjrNjxF",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "2OidNcBZUmOlicig29oP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "x3OP1DOQgRgWIHdFTrag",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "LOBhnML9LB1JTMLnOHFs",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "oAlpBwy9HxofRtHdPOHv",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "HaJwpIzvMt1gr4Nezfpr",
+                    "collection": "multiple_choice_quizzes"
+                }
+            ],
+            "id": "1JVxlCWeFuJsXzBp6cZD"
+        },
+        {
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "quizzes": [
+                {
+                    "id": "PXCPBYJy4cv3LbHJoVKQ",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "9USssyUDS5701rzvv0yu",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "WqqpQplosrkCQ3HrYRiR",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "qBVfypDipDD4WAFzBDeP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "rRP6UBrZx7LARH5whyc1",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "6uPUWH5kBM3yPI7pos62",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "x3OP1DOQgRgWIHdFTrag",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "ep7mNwo7VmFjbWjrNjxF",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "dkisru7MD9VV6Gp3SXYd",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "slxF052wQOjsJrhb2SdT",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "DniBe5uXH29V8m6zMOTd"
         },
         {
             "category_id": "4PqaoKJYhAhChMWc28uK",
             "quizzes": [
                 {
                     "id": "ep7mNwo7VmFjbWjrNjxF",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "rRP6UBrZx7LARH5whyc1",
-                    "type": "selection_quizzes"
+                    "id": "dkisru7MD9VV6Gp3SXYd",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "g2C6OsCmcS2uSZe8kzI6",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "4Xejo1n0XNmNSPNWPu3q",
-                    "type": "selection_quizzes"
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "qBVfypDipDD4WAFzBDeP",
-                    "type": "multiple_choice_quizzes"
+                    "id": "7dxTHJgycCFrNvwrgTOD",
+                    "collection": "input_quizzes"
                 },
                 {
-                    "id": "Dit1ZsDLxKt3oe9JgGzH",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "6DI117GcbzvnWQGSIdoA",
-                    "type": "input_quizzes"
+                    "id": "HaJwpIzvMt1gr4Nezfpr",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "9USssyUDS5701rzvv0yu",
-                    "type": "input_quizzes"
+                    "collection": "input_quizzes"
                 },
                 {
-                    "id": "UIO6g01omKMRmOGvUAkv",
-                    "type": "selection_quizzes"
+                    "id": "5jBz5PNejEVCMwr9eFaG",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "PXCPBYJy4cv3LbHJoVKQ",
-                    "type": "multiple_choice_quizzes"
+                    "id": "Cp6XCXwXDE8PthWqPWx0",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "ruUtn04tdGrQ1VEVua3l",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "eNz8iju2jbThVhtd2HF4"
+        },
+        {
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "quizzes": [
+                {
+                    "id": "9USssyUDS5701rzvv0yu",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "x3OP1DOQgRgWIHdFTrag",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "g2C6OsCmcS2uSZe8kzI6",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "dkisru7MD9VV6Gp3SXYd",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "2ih2KeBKKuVkmAG4CztS",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "za5Q4drHjuIelQtYNups",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "ZmoVvzD0LerVUn43RPBd",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "7dxTHJgycCFrNvwrgTOD",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "lJEjq4egFVBeSdUHBmH5",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "RYbkRGqFDqD5UeihQBLz",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "vfHw9a7GeCdO5RcDFNCw"
+        },
+        {
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "quizzes": [
+                {
+                    "id": "Dit1ZsDLxKt3oe9JgGzH",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "IYDJet6Du6jpKuavLlFY",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "HaJwpIzvMt1gr4Nezfpr",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "2OidNcBZUmOlicig29oP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "SpgZNnnHSH5SDz3TDtna",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "jnqiFBJbDzDf6CylpqbN",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "6DI117GcbzvnWQGSIdoA",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "9USssyUDS5701rzvv0yu",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "4Xejo1n0XNmNSPNWPu3q",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "Cp6XCXwXDE8PthWqPWx0",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "jJFz6XeLQxvTylL89Zw8"
+        },
+        {
+            "category_id": "4PqaoKJYhAhChMWc28uK",
+            "quizzes": [
+                {
+                    "id": "ep7mNwo7VmFjbWjrNjxF",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "x6sW6ZcZ65fG7PPerNvX",
-                    "type": "input_quizzes"
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "g2C6OsCmcS2uSZe8kzI6",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "qBVfypDipDD4WAFzBDeP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "rRP6UBrZx7LARH5whyc1",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "lJEjq4egFVBeSdUHBmH5",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "B32BAuyLy3S7xMU19Wmb",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "2OidNcBZUmOlicig29oP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "WqqpQplosrkCQ3HrYRiR",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "QqbAOWsRbMkHLbZBmHsi",
+                    "collection": "input_quizzes"
                 }
             ],
-            "id": "JPJoAiWDIYCRvKc7toYh"
+            "id": "XLGcm2lT7j6bUiMrz6b3"
         }
     ],
     "aYB1zePOADgNPEeLQlQw": [
@@ -466,461 +466,461 @@
             "category_id": "aYB1zePOADgNPEeLQlQw",
             "quizzes": [
                 {
-                    "id": "4vOA5CwSlwkWGy6khf6E",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "3jhZLR50L9hNVlVdwyNX",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "i5QQppYymq0dWGetObxe",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "gSBtPEOoOtuvx9dtkj47",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "DSHGLxkN216QLq6Ur7va",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "8lVOKrmwi95qBwP4jiMc",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "fpECZtWfHT8S6aEaJ5zr",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "aGRu1dVT5b3kB4bOIyJT",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "11oKtTCt2WHKFjTxC293",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "qVvriIMZ6Qow7zxjn5Y3",
-                    "type": "multiple_choice_quizzes"
-                }
-            ],
-            "id": "RoyuomX4wR6MxvO6nz5e"
-        },
-        {
-            "category_id": "aYB1zePOADgNPEeLQlQw",
-            "quizzes": [
-                {
-                    "id": "MYgMVQzwMlxsEzHjBGoa",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "fsYXqG0TbDKv9OvRnvfr",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "11oKtTCt2WHKFjTxC293",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "UzkLCyR7WBa5mWpCr31x",
-                    "type": "selection_quizzes"
+                    "id": "zKWsOoFz7mBQXjLAQ1T4",
+                    "collection": "input_quizzes"
                 },
                 {
                     "id": "J2g4UmuO4yZO5Wedv0Bb",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "e3eenhXKMExjClw1gj0z",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "SooGZzuDxD6nLlySnrng",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "SBjKE8kBxW3Z5HAgV935",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "Q1m1mt5JkNEKoJe7V71n",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "ChhS7pQU6kU64IQL8eWP",
-                    "type": "multiple_choice_quizzes"
-                }
-            ],
-            "id": "jzw13FN03jxtZnY3z8J8"
-        },
-        {
-            "category_id": "aYB1zePOADgNPEeLQlQw",
-            "quizzes": [
-                {
-                    "id": "fsYXqG0TbDKv9OvRnvfr",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "8lVOKrmwi95qBwP4jiMc",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "MYgMVQzwMlxsEzHjBGoa",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "J2g4UmuO4yZO5Wedv0Bb",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "tKrnITTSPmsaAA3NJY1e",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "e3eenhXKMExjClw1gj0z",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "zJMhXFJWhNNjGEhGQuBi",
-                    "type": "selection_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "sJMDHGvtFTT2WlcisBKe",
-                    "type": "selection_quizzes"
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "zjr9Ms4LLZXVbgwwy0RG",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "nncdrXmA3aWP71YhFBBa",
-                    "type": "input_quizzes"
-                }
-            ],
-            "id": "iyXYz33fpNd8kAlPENw4"
-        },
-        {
-            "category_id": "aYB1zePOADgNPEeLQlQw",
-            "quizzes": [
-                {
-                    "id": "zKWsOoFz7mBQXjLAQ1T4",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "e3eenhXKMExjClw1gj0z",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "5YKMsXCZCNnnJLvx5ORR",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "n491DzWPEIMLT6rGVxle",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "qVvriIMZ6Qow7zxjn5Y3",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "d9sMNg0H5PftN60DUboW",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "SooGZzuDxD6nLlySnrng",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "nncdrXmA3aWP71YhFBBa",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "4vOA5CwSlwkWGy6khf6E",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "w5r4FCPLKFxuNCHLoBDs",
-                    "type": "input_quizzes"
-                }
-            ],
-            "id": "upRz9yDXVRDgoZtMHgJY"
-        },
-        {
-            "category_id": "aYB1zePOADgNPEeLQlQw",
-            "quizzes": [
-                {
-                    "id": "XMuAr5JEYVuelembIkKB",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "4vOA5CwSlwkWGy6khf6E",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "MpVmzUZuYjzRKXqp8cJS",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "5YKMsXCZCNnnJLvx5ORR",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "PThTbDLYNEftH797i7Rs",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "4RbxRVieUqZ5i6QBabSK",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "d9sMNg0H5PftN60DUboW",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "Q1m1mt5JkNEKoJe7V71n",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "3LYplzoAL4VNXdrhP6Gp",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "ngHBY7HRdoe6hem6JV7r",
-                    "type": "multiple_choice_quizzes"
-                }
-            ],
-            "id": "9Ed7c01HM3MZjFW12Tld"
-        },
-        {
-            "category_id": "aYB1zePOADgNPEeLQlQw",
-            "quizzes": [
-                {
-                    "id": "4vOA5CwSlwkWGy6khf6E",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "L4JsvMHvHNa8GyaEvpzf",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "zJMhXFJWhNNjGEhGQuBi",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "d9sMNg0H5PftN60DUboW",
-                    "type": "multiple_choice_quizzes"
+                    "id": "MYgMVQzwMlxsEzHjBGoa",
+                    "collection": "input_quizzes"
                 },
                 {
                     "id": "i5QQppYymq0dWGetObxe",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "epWw5YIoz5ZOJmO11r94",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "nncdrXmA3aWP71YhFBBa",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "wOPWg0Q8wiNdFzxak2T7",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "HZWAaMQMLMDCv7uYv1Ay",
-                    "type": "selection_quizzes"
+                    "id": "4vOA5CwSlwkWGy6khf6E",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "hBwIo8aXo4QbUi8KRbMW",
-                    "type": "selection_quizzes"
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "cAk1jOQawL9HSlTppYya",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "ChhS7pQU6kU64IQL8eWP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "4Nvm4MFZqiJK9rfkLHIx",
+                    "collection": "selection_quizzes"
                 }
             ],
-            "id": "LIfFXIvsvoQJ2DZqnhrp"
+            "id": "umaDIcT8IfqixVBfKCy4"
         },
         {
             "category_id": "aYB1zePOADgNPEeLQlQw",
             "quizzes": [
                 {
-                    "id": "MpVmzUZuYjzRKXqp8cJS",
-                    "type": "selection_quizzes"
+                    "id": "d9sMNg0H5PftN60DUboW",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "L4JsvMHvHNa8GyaEvpzf",
-                    "type": "multiple_choice_quizzes"
+                    "id": "e3eenhXKMExjClw1gj0z",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "4RbxRVieUqZ5i6QBabSK",
-                    "type": "selection_quizzes"
+                    "id": "zkx3rBA7L4FX5SypihNE",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "4vOA5CwSlwkWGy6khf6E",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "a1HYqP3LAeDvFkn3baHK",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "gSBtPEOoOtuvx9dtkj47",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "ChhS7pQU6kU64IQL8eWP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "DSHGLxkN216QLq6Ur7va",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "MYgMVQzwMlxsEzHjBGoa",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "ssjaqh3e0g1sn4CwXgAG",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "ubezsMXO7IqFtoefPNfV"
+        },
+        {
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "quizzes": [
+                {
+                    "id": "8lVOKrmwi95qBwP4jiMc",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "d9sMNg0H5PftN60DUboW",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "3LYplzoAL4VNXdrhP6Gp",
-                    "type": "input_quizzes"
+                    "id": "zKWsOoFz7mBQXjLAQ1T4",
+                    "collection": "input_quizzes"
                 },
                 {
-                    "id": "lwIgqxcVGuSyBVqQNLhW",
-                    "type": "input_quizzes"
+                    "id": "tbBlfepXO5QhxFGLsd1b",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "ngHBY7HRdoe6hem6JV7r",
-                    "type": "multiple_choice_quizzes"
+                    "id": "N5lrI7SOiO9mFerx1ptt",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "HZWAaMQMLMDCv7uYv1Ay",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "IKUZn5jrfzGUtQPVG8IM",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "gSBtPEOoOtuvx9dtkj47",
+                    "collection": "input_quizzes"
                 },
                 {
                     "id": "SBjKE8kBxW3Z5HAgV935",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "Q1m1mt5JkNEKoJe7V71n",
-                    "type": "input_quizzes"
+                    "id": "UzkLCyR7WBa5mWpCr31x",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "KlDQBRNHNam1gkjfEe8c"
+        },
+        {
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "quizzes": [
+                {
+                    "id": "qVvriIMZ6Qow7zxjn5Y3",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "SooGZzuDxD6nLlySnrng",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "N5lrI7SOiO9mFerx1ptt",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "Jd6LHapbGvLMzXCn4szf",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "8lVOKrmwi95qBwP4jiMc",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "tbBlfepXO5QhxFGLsd1b",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "PThTbDLYNEftH797i7Rs",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "xsaVZT3Eqmw77mpe6aIm",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "lwIgqxcVGuSyBVqQNLhW",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "mqN61LGSlCWqBTdZJpBR",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "s938MhXafUv4bKvhiwoL"
+        },
+        {
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "quizzes": [
+                {
+                    "id": "x5L59HieA4ZZLGUQHUjd",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "PThTbDLYNEftH797i7Rs",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "MYgMVQzwMlxsEzHjBGoa",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "L4JsvMHvHNa8GyaEvpzf",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "HtFnRWHdrizBgNWgqQFQ",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "Fw8rZbBeww8GshenSblb",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "tQo6dLEKcq5tQh7qPq8Z",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "4Nvm4MFZqiJK9rfkLHIx",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "ChhS7pQU6kU64IQL8eWP",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "zjr9Ms4LLZXVbgwwy0RG",
-                    "type": "selection_quizzes"
+                    "collection": "selection_quizzes"
                 }
             ],
-            "id": "SneYiBpLCKOBXqnt7D5U"
+            "id": "SNGkh40d97sAQkW5DmnM"
+        },
+        {
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "quizzes": [
+                {
+                    "id": "lwIgqxcVGuSyBVqQNLhW",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "sJMDHGvtFTT2WlcisBKe",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "tKrnITTSPmsaAA3NJY1e",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "tbBlfepXO5QhxFGLsd1b",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "Q1m1mt5JkNEKoJe7V71n",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "L4JsvMHvHNa8GyaEvpzf",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "zJMhXFJWhNNjGEhGQuBi",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "PThTbDLYNEftH797i7Rs",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "MpVmzUZuYjzRKXqp8cJS",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "4Nvm4MFZqiJK9rfkLHIx",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "7n6KlEFHZpzFfL4Cf2CQ"
+        },
+        {
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "quizzes": [
+                {
+                    "id": "w5r4FCPLKFxuNCHLoBDs",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "UzkLCyR7WBa5mWpCr31x",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "ChhS7pQU6kU64IQL8eWP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "tbBlfepXO5QhxFGLsd1b",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "3LYplzoAL4VNXdrhP6Gp",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "FSTw8KyFBJ1iX1WtjnAV",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "J2g4UmuO4yZO5Wedv0Bb",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "mqN61LGSlCWqBTdZJpBR",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "4Nvm4MFZqiJK9rfkLHIx",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "Fw8rZbBeww8GshenSblb",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "47jaGKMNa4DopnQzNG6O"
+        },
+        {
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "quizzes": [
+                {
+                    "id": "FSTw8KyFBJ1iX1WtjnAV",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "aGRu1dVT5b3kB4bOIyJT",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "x5L59HieA4ZZLGUQHUjd",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "4vOA5CwSlwkWGy6khf6E",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "5YKMsXCZCNnnJLvx5ORR",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "fsYXqG0TbDKv9OvRnvfr",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "J2g4UmuO4yZO5Wedv0Bb",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "fiOlBN6uaevxqjTItGV1",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "11oKtTCt2WHKFjTxC293",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "SooGZzuDxD6nLlySnrng",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "ckbXBalYyAWmegO2irZc"
+        },
+        {
+            "category_id": "aYB1zePOADgNPEeLQlQw",
+            "quizzes": [
+                {
+                    "id": "IKUZn5jrfzGUtQPVG8IM",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "wOPWg0Q8wiNdFzxak2T7",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "bFfKJHDfcDLMwrpk7Brb",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "GD3GryHiAOOG8EWgfBih",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "PThTbDLYNEftH797i7Rs",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "L4JsvMHvHNa8GyaEvpzf",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "ChhS7pQU6kU64IQL8eWP",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "Rmoo2efOu2FygknugPwQ",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "FSTw8KyFBJ1iX1WtjnAV",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "epWw5YIoz5ZOJmO11r94",
+                    "collection": "input_quizzes"
+                }
+            ],
+            "id": "TEci5xzu84GYsdkG8Ulb"
         },
         {
             "category_id": "aYB1zePOADgNPEeLQlQw",
             "quizzes": [
                 {
                     "id": "JWno6LxQX2fKRxEr1aPw",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "fiOlBN6uaevxqjTItGV1",
-                    "type": "input_quizzes"
+                    "id": "MpVmzUZuYjzRKXqp8cJS",
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "wOPWg0Q8wiNdFzxak2T7",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "tQo6dLEKcq5tQh7qPq8Z",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "tKrnITTSPmsaAA3NJY1e",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "4Nvm4MFZqiJK9rfkLHIx",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "N5lrI7SOiO9mFerx1ptt",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "e3eenhXKMExjClw1gj0z",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "lwIgqxcVGuSyBVqQNLhW",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "L4JsvMHvHNa8GyaEvpzf",
-                    "type": "multiple_choice_quizzes"
-                }
-            ],
-            "id": "M7J6WqwBucnda71RyVsn"
-        },
-        {
-            "category_id": "aYB1zePOADgNPEeLQlQw",
-            "quizzes": [
-                {
-                    "id": "8lVOKrmwi95qBwP4jiMc",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "e3eenhXKMExjClw1gj0z",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "w5r4FCPLKFxuNCHLoBDs",
-                    "type": "input_quizzes"
+                    "id": "a1HYqP3LAeDvFkn3baHK",
+                    "collection": "selection_quizzes"
                 },
                 {
                     "id": "Abpw9kkEcX5mnuK8L523",
-                    "type": "selection_quizzes"
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "PThTbDLYNEftH797i7Rs",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "XMuAr5JEYVuelembIkKB",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "fsYXqG0TbDKv9OvRnvfr",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "zkx3rBA7L4FX5SypihNE",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "HqZdOFn3Lwojoep3Wj9s",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "FSTw8KyFBJ1iX1WtjnAV",
-                    "type": "multiple_choice_quizzes"
-                }
-            ],
-            "id": "4lNXchIEzccwkd156CSl"
-        },
-        {
-            "category_id": "aYB1zePOADgNPEeLQlQw",
-            "quizzes": [
-                {
-                    "id": "N5lrI7SOiO9mFerx1ptt",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "4vOA5CwSlwkWGy6khf6E",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "nncdrXmA3aWP71YhFBBa",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "bFfKJHDfcDLMwrpk7Brb",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "HqZdOFn3Lwojoep3Wj9s",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "MYgMVQzwMlxsEzHjBGoa",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "qVvriIMZ6Qow7zxjn5Y3",
-                    "type": "multiple_choice_quizzes"
+                    "id": "zjr9Ms4LLZXVbgwwy0RG",
+                    "collection": "selection_quizzes"
                 },
                 {
                     "id": "fpECZtWfHT8S6aEaJ5zr",
-                    "type": "input_quizzes"
+                    "collection": "input_quizzes"
                 },
                 {
-                    "id": "tbBlfepXO5QhxFGLsd1b",
-                    "type": "multiple_choice_quizzes"
+                    "id": "4vOA5CwSlwkWGy6khf6E",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "8lVOKrmwi95qBwP4jiMc",
-                    "type": "multiple_choice_quizzes"
+                    "id": "e3eenhXKMExjClw1gj0z",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "w5r4FCPLKFxuNCHLoBDs",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "SBjKE8kBxW3Z5HAgV935",
+                    "collection": "multiple_choice_quizzes"
                 }
             ],
-            "id": "niqAOfCRrt25rEcOpuPN"
+            "id": "9wO0hTadrLY2hMZyJ5jH"
         }
     ],
     "lyuKCwC5JWTjxNoz2fxQ": [
@@ -928,461 +928,461 @@
             "category_id": "lyuKCwC5JWTjxNoz2fxQ",
             "quizzes": [
                 {
-                    "id": "b94dJPnUan9CHc5fMRXI",
-                    "type": "input_quizzes"
+                    "id": "oAjQbLHrV9nVthCaiLTb",
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "bdFp6OBKFFwOK7UBIdZt",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "8KTYPSBSH5fB57Zx5M71",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "oEYI5SyWMOg8lm9q337P",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "jhf1h6oHO0BC8ZsZfboR",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "kSitSsHfLOB3CScPTmOj",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "72Lmmn4PB15gPDlk0TbC",
-                    "type": "multiple_choice_quizzes"
+                    "id": "2NlVvTJNmQGygCqqqzGu",
+                    "collection": "input_quizzes"
                 },
                 {
                     "id": "WIyxotlFAslWVEduj81l",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "BdFenrNHszkcNJVCksNg",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "SMwDMmVnGRZjDpUv8JEM",
-                    "type": "input_quizzes"
-                }
-            ],
-            "id": "gD0D3BCyPfOU0wxVYx58"
-        },
-        {
-            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
-            "quizzes": [
-                {
-                    "id": "x2s2XFX5a9U9hPfe4WHI",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "c3doMYCQ4unQ64ANO9Gs",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "ysAzqSF1XujHwT7MYpEN",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "TrBWr8A1zJR03AeYCMjW",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "GV7GQFquiH9z7iUepHzf",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "UdpWcmCDuXrCYBpcSb4z",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "0WUu9qsyoXWo0LfAL8Oc",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "5rukqdPkyIaz6WVbptY5",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "nRBwciycfjXtLFpgdmcm",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "gPViPejyxZl5aj26Igcr",
-                    "type": "multiple_choice_quizzes"
-                }
-            ],
-            "id": "1APYnmslMf1ZU0XPzYtS"
-        },
-        {
-            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
-            "quizzes": [
-                {
-                    "id": "oEYI5SyWMOg8lm9q337P",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "input_quizzes"
                 },
                 {
                     "id": "jhf1h6oHO0BC8ZsZfboR",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "72Lmmn4PB15gPDlk0TbC",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "vlvY2WOWqZJO9rPENg1h",
-                    "type": "selection_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "t3v82Ydq0k7UrvWRVK6D",
-                    "type": "selection_quizzes"
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "Fy40pUtAyYPIW0wsGA6V",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "hiJeLx8OZlaMtZXkoxM0",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "SJj0bsYEqEEwP1ogToSB",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "arY0VnqaDj6zAw0YB6RM",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "i45Co5ji8ULdBDzmJWjZ",
-                    "type": "input_quizzes"
-                }
-            ],
-            "id": "L0Hn7l2QBXOBgIiSsSls"
-        },
-        {
-            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
-            "quizzes": [
-                {
-                    "id": "Pv221POln8UQZkdJV6Uj",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "x2s2XFX5a9U9hPfe4WHI",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "Fy40pUtAyYPIW0wsGA6V",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "dZMChy8sGUIzvtSqRcPn",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "0WUu9qsyoXWo0LfAL8Oc",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "vlvY2WOWqZJO9rPENg1h",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "72Lmmn4PB15gPDlk0TbC",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "jhf1h6oHO0BC8ZsZfboR",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "hiJeLx8OZlaMtZXkoxM0",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "BUTQDXYHhxzDh7hQ9l7w",
-                    "type": "selection_quizzes"
-                }
-            ],
-            "id": "kUSw1K6nFPzXggSbLTP2"
-        },
-        {
-            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
-            "quizzes": [
-                {
-                    "id": "hiJeLx8OZlaMtZXkoxM0",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "nsM88Nk9baMrrGKCk3eS",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "2SHtxyNSevmL3Pi3WK07",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "bdFp6OBKFFwOK7UBIdZt",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "SJj0bsYEqEEwP1ogToSB",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "Fy40pUtAyYPIW0wsGA6V",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "2NlVvTJNmQGygCqqqzGu",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "vlvY2WOWqZJO9rPENg1h",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "72Lmmn4PB15gPDlk0TbC",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "UejHhDTyOqcgAB3ULuYx",
-                    "type": "multiple_choice_quizzes"
-                }
-            ],
-            "id": "5uKanBIe5zFdRplucHnj"
-        },
-        {
-            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
-            "quizzes": [
-                {
-                    "id": "fX0Q1S2IpDJyLJ87X4Jt",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "dZMChy8sGUIzvtSqRcPn",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "72Lmmn4PB15gPDlk0TbC",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "WIyxotlFAslWVEduj81l",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "8KTYPSBSH5fB57Zx5M71",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "Fy40pUtAyYPIW0wsGA6V",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "gPViPejyxZl5aj26Igcr",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "GV7GQFquiH9z7iUepHzf",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "UK3gjjEygsllfmP8LMgq",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "gHwsI4qMc8k5iFTfwdIE",
-                    "type": "selection_quizzes"
-                }
-            ],
-            "id": "R0AbAsfEVOgFXnDWhn6p"
-        },
-        {
-            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
-            "quizzes": [
-                {
-                    "id": "UdpWcmCDuXrCYBpcSb4z",
-                    "type": "multiple_choice_quizzes"
+                    "id": "06mLTRsfrN2mc9v0ZsXC",
+                    "collection": "selection_quizzes"
                 },
                 {
                     "id": "WtsF4yEvIhNvjSw0bmZn",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "BdFenrNHszkcNJVCksNg",
-                    "type": "selection_quizzes"
+                    "id": "8fB8IEaSbNS5HDzZNslU",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "TrBWr8A1zJR03AeYCMjW",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "uspO7kCaL4Ij7mIi03VX",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "5rukqdPkyIaz6WVbptY5",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "DRVpz1jbdEKrrcYn8qAz",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "x2s2XFX5a9U9hPfe4WHI",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "SJj0bsYEqEEwP1ogToSB",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "fX0Q1S2IpDJyLJ87X4Jt",
-                    "type": "selection_quizzes"
+                    "id": "Os8Ybjlk4O0jCz2VBszM",
+                    "collection": "selection_quizzes"
                 }
             ],
-            "id": "gL4LayPcQEY8hfVPRnHF"
+            "id": "59VHJA6YRdeh2qHSFxAx"
         },
         {
             "category_id": "lyuKCwC5JWTjxNoz2fxQ",
             "quizzes": [
                 {
-                    "id": "uvita4HjBAPIPWP5tI5W",
-                    "type": "selection_quizzes"
+                    "id": "BUTQDXYHhxzDh7hQ9l7w",
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "UdpWcmCDuXrCYBpcSb4z",
-                    "type": "multiple_choice_quizzes"
+                    "id": "hiJeLx8OZlaMtZXkoxM0",
+                    "collection": "input_quizzes"
                 },
                 {
-                    "id": "8KTYPSBSH5fB57Zx5M71",
-                    "type": "multiple_choice_quizzes"
+                    "id": "ysAzqSF1XujHwT7MYpEN",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "x2s2XFX5a9U9hPfe4WHI",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "jhf1h6oHO0BC8ZsZfboR",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "72Lmmn4PB15gPDlk0TbC",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "Fy40pUtAyYPIW0wsGA6V",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "oAjQbLHrV9nVthCaiLTb",
+                    "collection": "selection_quizzes"
                 },
                 {
                     "id": "vcqQrkpYpWhp6prh2lnc",
-                    "type": "selection_quizzes"
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "YNVIjQNilmRKHxaGb4v4",
-                    "type": "input_quizzes"
+                    "id": "BdFenrNHszkcNJVCksNg",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "vdDP9xSy9INdchfUS6Xb"
+        },
+        {
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "quizzes": [
+                {
+                    "id": "TrBWr8A1zJR03AeYCMjW",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "2SHtxyNSevmL3Pi3WK07",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "ysAzqSF1XujHwT7MYpEN",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "8KTYPSBSH5fB57Zx5M71",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "06mLTRsfrN2mc9v0ZsXC",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "Fy40pUtAyYPIW0wsGA6V",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "jhf1h6oHO0BC8ZsZfboR",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "oAjQbLHrV9nVthCaiLTb",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "kOF2LEEKKfxLD9j7DXPg",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "BUTQDXYHhxzDh7hQ9l7w",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "7ZyKwRIF21nhjDqJhw20"
+        },
+        {
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "quizzes": [
+                {
+                    "id": "i45Co5ji8ULdBDzmJWjZ",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "UejHhDTyOqcgAB3ULuYx",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "SJj0bsYEqEEwP1ogToSB",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "c3doMYCQ4unQ64ANO9Gs",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "jhf1h6oHO0BC8ZsZfboR",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "uvita4HjBAPIPWP5tI5W",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "h8M3YIbVTaVI6xZdzRS5",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "oAjQbLHrV9nVthCaiLTb",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "4zUNwtwN6P6ioJ2oZ0rJ",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "oEYI5SyWMOg8lm9q337P",
+                    "collection": "multiple_choice_quizzes"
+                }
+            ],
+            "id": "7EO1i1l5I3pmeujPbNrO"
+        },
+        {
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "quizzes": [
+                {
+                    "id": "UdpWcmCDuXrCYBpcSb4z",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "arY0VnqaDj6zAw0YB6RM",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "uspO7kCaL4Ij7mIi03VX",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "ZcivFxFoo9jO1xh2nZ3r",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "UK3gjjEygsllfmP8LMgq",
-                    "type": "input_quizzes"
+                    "collection": "input_quizzes"
                 },
                 {
-                    "id": "Os8Ybjlk4O0jCz2VBszM",
-                    "type": "selection_quizzes"
+                    "id": "h8M3YIbVTaVI6xZdzRS5",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "PqUkd95bgqrutjQpiTNA",
-                    "type": "multiple_choice_quizzes"
+                    "id": "jhf1h6oHO0BC8ZsZfboR",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "nsM88Nk9baMrrGKCk3eS",
-                    "type": "multiple_choice_quizzes"
+                    "id": "kBC5rtf3NoH1lOSI6xWf",
+                    "collection": "input_quizzes"
                 },
                 {
-                    "id": "dZMChy8sGUIzvtSqRcPn",
-                    "type": "input_quizzes"
+                    "id": "bdFp6OBKFFwOK7UBIdZt",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "c3doMYCQ4unQ64ANO9Gs",
+                    "collection": "selection_quizzes"
                 }
             ],
-            "id": "TzIB44btB2q7IriOs6y0"
+            "id": "k1B1moTR2S99IE4vzPS7"
+        },
+        {
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "quizzes": [
+                {
+                    "id": "b94dJPnUan9CHc5fMRXI",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "TrBWr8A1zJR03AeYCMjW",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "5rukqdPkyIaz6WVbptY5",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "jhf1h6oHO0BC8ZsZfboR",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "r2hokwKEsKxnRwcV5qSk",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "WtsF4yEvIhNvjSw0bmZn",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "x2s2XFX5a9U9hPfe4WHI",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "arY0VnqaDj6zAw0YB6RM",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "BdFenrNHszkcNJVCksNg",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "kSitSsHfLOB3CScPTmOj",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "RxIHtGjcHUAHDKOIszd7"
         },
         {
             "category_id": "lyuKCwC5JWTjxNoz2fxQ",
             "quizzes": [
                 {
                     "id": "72Lmmn4PB15gPDlk0TbC",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "jhf1h6oHO0BC8ZsZfboR",
-                    "type": "multiple_choice_quizzes"
+                    "id": "fX0Q1S2IpDJyLJ87X4Jt",
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "2NlVvTJNmQGygCqqqzGu",
-                    "type": "input_quizzes"
+                    "id": "PqUkd95bgqrutjQpiTNA",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "gHwsI4qMc8k5iFTfwdIE",
-                    "type": "selection_quizzes"
+                    "id": "x2s2XFX5a9U9hPfe4WHI",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "r2hokwKEsKxnRwcV5qSk",
-                    "type": "selection_quizzes"
+                    "id": "oEYI5SyWMOg8lm9q337P",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "nsM88Nk9baMrrGKCk3eS",
-                    "type": "multiple_choice_quizzes"
+                    "id": "DRVpz1jbdEKrrcYn8qAz",
+                    "collection": "input_quizzes"
                 },
                 {
-                    "id": "kBC5rtf3NoH1lOSI6xWf",
-                    "type": "input_quizzes"
+                    "id": "8fEyT1LfHQwtDcZGwOeQ",
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "h8M3YIbVTaVI6xZdzRS5",
-                    "type": "multiple_choice_quizzes"
+                    "id": "2SHtxyNSevmL3Pi3WK07",
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "5rukqdPkyIaz6WVbptY5",
-                    "type": "input_quizzes"
+                    "id": "YNVIjQNilmRKHxaGb4v4",
+                    "collection": "input_quizzes"
                 },
                 {
-                    "id": "j3JehyKgeCX8wDtyHiN7",
-                    "type": "selection_quizzes"
+                    "id": "BdFenrNHszkcNJVCksNg",
+                    "collection": "selection_quizzes"
                 }
             ],
-            "id": "fX4lON5uNRu7KIcWUxj9"
+            "id": "nWuqp5zYrCBhqiix9Tfj"
         },
         {
             "category_id": "lyuKCwC5JWTjxNoz2fxQ",
             "quizzes": [
                 {
-                    "id": "uvita4HjBAPIPWP5tI5W",
-                    "type": "selection_quizzes"
-                },
-                {
-                    "id": "ZcivFxFoo9jO1xh2nZ3r",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "kBC5rtf3NoH1lOSI6xWf",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "b94dJPnUan9CHc5fMRXI",
-                    "type": "input_quizzes"
-                },
-                {
-                    "id": "x2s2XFX5a9U9hPfe4WHI",
-                    "type": "multiple_choice_quizzes"
-                },
-                {
-                    "id": "8fB8IEaSbNS5HDzZNslU",
-                    "type": "multiple_choice_quizzes"
+                    "id": "YNVIjQNilmRKHxaGb4v4",
+                    "collection": "input_quizzes"
                 },
                 {
                     "id": "jhf1h6oHO0BC8ZsZfboR",
-                    "type": "multiple_choice_quizzes"
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
-                    "id": "Pv221POln8UQZkdJV6Uj",
-                    "type": "selection_quizzes"
+                    "id": "2SHtxyNSevmL3Pi3WK07",
+                    "collection": "selection_quizzes"
                 },
                 {
-                    "id": "oDyiMXwEDWpByBJhvU3d",
-                    "type": "selection_quizzes"
+                    "id": "PqUkd95bgqrutjQpiTNA",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "kSitSsHfLOB3CScPTmOj",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "72Lmmn4PB15gPDlk0TbC",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "nRBwciycfjXtLFpgdmcm",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "j3JehyKgeCX8wDtyHiN7",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "8fB8IEaSbNS5HDzZNslU",
+                    "collection": "multiple_choice_quizzes"
                 },
                 {
                     "id": "WIyxotlFAslWVEduj81l",
-                    "type": "input_quizzes"
+                    "collection": "input_quizzes"
                 }
             ],
-            "id": "HuEQiwereMrPvMNzM6Ez"
+            "id": "NFOu6NaMKUCPfGo0LDtx"
+        },
+        {
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "quizzes": [
+                {
+                    "id": "kOF2LEEKKfxLD9j7DXPg",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "4zUNwtwN6P6ioJ2oZ0rJ",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "nRBwciycfjXtLFpgdmcm",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "gPViPejyxZl5aj26Igcr",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "Fy40pUtAyYPIW0wsGA6V",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "ynXYdgo3RCybnEjkM7aU",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "fX0Q1S2IpDJyLJ87X4Jt",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "8KTYPSBSH5fB57Zx5M71",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "x2s2XFX5a9U9hPfe4WHI",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "5rukqdPkyIaz6WVbptY5",
+                    "collection": "input_quizzes"
+                }
+            ],
+            "id": "xUmoin9iUOEqUXC6KETz"
+        },
+        {
+            "category_id": "lyuKCwC5JWTjxNoz2fxQ",
+            "quizzes": [
+                {
+                    "id": "ZcivFxFoo9jO1xh2nZ3r",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "jhf1h6oHO0BC8ZsZfboR",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "8KTYPSBSH5fB57Zx5M71",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "nsM88Nk9baMrrGKCk3eS",
+                    "collection": "multiple_choice_quizzes"
+                },
+                {
+                    "id": "ysAzqSF1XujHwT7MYpEN",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "kBC5rtf3NoH1lOSI6xWf",
+                    "collection": "input_quizzes"
+                },
+                {
+                    "id": "r2hokwKEsKxnRwcV5qSk",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "ynXYdgo3RCybnEjkM7aU",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "c3doMYCQ4unQ64ANO9Gs",
+                    "collection": "selection_quizzes"
+                },
+                {
+                    "id": "nRBwciycfjXtLFpgdmcm",
+                    "collection": "selection_quizzes"
+                }
+            ],
+            "id": "QwxtRjY6i2aLjTpUwpGC"
         }
     ]
 }
