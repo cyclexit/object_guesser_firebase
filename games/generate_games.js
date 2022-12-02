@@ -93,16 +93,34 @@ const generateGames = async() => {
         for (var i = 0; i < MAX_GAMES_PER_CATEGORY; ++i) {
             var game = {};
             game["category_id"] = catId;
-            game["quiz_ids"] = [];
+            game["quizzes"] = [];
             // TODO: implement this
             const mcShuffled = quizzes["multiple_choice"][catId].sort((a, b) => 0.5 - Math.random());
-            mcShuffled.slice(0, MULTIPLE_CHOICE_NUM).forEach(qid => game["quiz_ids"].push(qid));
+            mcShuffled.slice(0, MULTIPLE_CHOICE_NUM).forEach(qid => {
+                game["quizzes"].push({
+                    "id": qid,
+                    "type": MULTIPLE_CHOICE_QUIZZES
+                });
+            });
             
             const inputShuffled = quizzes["input"][catId].sort((a, b) => 0.5 - Math.random());
-            inputShuffled.slice(0, INPUT_NUM).forEach(qid => game["quiz_ids"].push(qid));
+            inputShuffled.slice(0, INPUT_NUM).forEach(qid => {
+                game["quizzes"].push({
+                    "id": qid,
+                    "type": INPUT_QUIZZES
+                });
+            });
 
             const selectionShuffled = quizzes["selection"][catId].sort((a, b) => 0.5 - Math.random());
-            selectionShuffled.slice(0, SELECTION_NUM).forEach(qid => game["quiz_ids"].push(qid));
+            selectionShuffled.slice(0, SELECTION_NUM).forEach(qid => {
+                game["quizzes"].push({
+                    "id": qid,
+                    "type": SELECTION_QUIZZES
+                });
+            });
+
+            // shuffle the quizzes
+            game["quizzes"].sort((a, b) => 0.5 - Math.random());
 
             const ref = gamesCollection.doc();
             game["id"] = ref.id;
