@@ -119,6 +119,7 @@ const generateQuizzes = async(images, imageLabelRecords, labels) => {
                 "points": Math.floor(TOTAL_POINTS_PER_QUIZ / correctImageIds.length)
             });
         }
+        quiz["max_points"] = TOTAL_POINTS_PER_QUIZ;
         const ref = selectionQuizzesCollection.doc();
         quiz["id"] = ref.id;
         await ref.set(quiz, {merge: true});
