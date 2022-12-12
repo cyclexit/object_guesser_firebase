@@ -66,7 +66,7 @@ function getRandomIntInclusive(min, max) {
 
 const generateChoices = (correctAnswers, labels) => {
     const TOTAL_CHOICES = 4;
-    const CORRECT_CHOICES = getRandomIntInclusive(1, correctAnswers.length);
+    const CORRECT_CHOICES = getRandomIntInclusive(1, Math.min(3, correctAnswers.length));
     const WRONG_CHOICES = TOTAL_CHOICES - CORRECT_CHOICES;
 
     var choices = [];
@@ -101,6 +101,15 @@ const generateQuizzes = async(imageLabelRecords, labels) => {
         const correctAnswers = getCorrectAnswers(rec["label_id"], labels);
         quiz["correct_answers"] = correctAnswers;
         quiz["choices"] = generateChoices(correctAnswers, labels);
+
+        var maxPoints = 0;
+        for (const ans of correctAnswers) {
+            if (quiz["choices"].includes(ans["label_id"])) {
+                maxPoints = Math.max(maxPoints, ans["points"]);
+            }
+        }
+        quiz["max_points"] = maxPoints;
+
         const ref = multipleChoiceQuizzesCollection.doc();
         quiz["id"] = ref.id;
         await ref.set(quiz, {merge: true});
